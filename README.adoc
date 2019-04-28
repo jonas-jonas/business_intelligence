@@ -1,0 +1,14 @@
+= Business Intelligence
+
+== Generierung der PDF Submission
+
+Das Script `generate-submission.sh` rendert die PDF Version der Submission.
+Optional kann ein `--watch` flag dazu gegeben werden.
+In diesem Fall wird eine Filesystem Watcher aufgerufen, der auf Änderungen an `*.adoc` Dateien im `submission` Ordner wartet.
+Wenn dieser eine Änderung erkennt wird das PDF neu generiert.
+
+Sollte kein Parameter übergeben werden, wird das PDF generiert und das Skript gestoppt.
+
+Das theme für das PDF kann in der Datei `submission/themes/article-theme.yml` angepasst werden.
+Ein Referenzguide ist hier zu finden: https://github.com/asciidoctor/asciidoctor-pdf/blob/master/docs/theming-guide.adoc.
+
