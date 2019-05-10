@@ -1,4 +1,4 @@
-= Cosmonautics icon:rocket[]
+= Cosmonautics icon:rocket[]: Wie ist die Verteilung von Firmen und Ländern in der Raumfahrt?
 Jonas Hungershausen <jonas.hungershausen@gmail.com>
 :doctype: book
 :reproducible:
@@ -9,28 +9,50 @@ Jonas Hungershausen <jonas.hungershausen@gmail.com>
 :toc-title: Inhalt
 :title-logo-image: image:images/logo.png[width=250,align=center]
 
-== Einleitung und Analyseziele
-
-In einer Zeit in der SpaceX und andere private Unternehmen immer mehr Geld in die Raumfahrt investieren, steigt auch die Anzahl der Patentanmeldungen wieder auf eine ähnliche Höhe wie zu Zeiten des "Spaceraces" der 1950er und 1960er Jahre{empty}footnote:[Wettlauf ins All https://de.wikipedia.org/wiki/Wettlauf_ins_All].
-
-Viele Unternehmen greifen zu Patenten als bewehrte Methode um ihr geistiges Eigentum vor den Konkurenten zu schützen.
-Andere haben sich hingegen dazu entschieden, ihr geistiges Eigentum nicht zu durch Patenten zu schützen.
-Das prominentes Beispiel hierfür ist die Firma SpaceX.
-Als Grund nennt Geschäftsführer Elon Musk hierfür, dass seine größten Konkurenten aus China kommen und diese durch die detailierte Beschreibung im Patent eine genaue Anleitung zur Kopie hätten{empty}footnote:[SpaceX registriert keine Patente https://www.businessinsider.com/elon-musk-patents-2012-11?IR=T].
-Dies ist unter anderem durch lückenhafte internationale Patentgesetze bedingt.
-
 // list{empty}footnote:[AsciiDoc supports unordered, ordered, and description lists.]
 
+== Einleitung und Analyseziele
+
+In einer Zeit in der private Unternehmen immer mehr Mittel in die Raumfahrt investieren, steigen auch die Patentanmeldungen wieder. 
+Nach dem "Spacerace" der 1950er und 1960er Jahre{empty}footnote:[Wettlauf ins All https://de.wikipedia.org/wiki/Wettlauf_ins_All] war der öffentliche Enthusiasmus für die Raumfahrt eher gedämpft.
+Damit waren auch keine öffentlichen Mittel vorhanden.
+
+Viele Unternehmen greifen zu Patenten als bewehrte Methode um ihr geistiges Eigentum vor den Konkurrenten zu schützen.
+So ist es möglich anhand von Analysen den Fortschritt in dem Bereich darzustellen.
 
 == Recherche
 
+Die Recherche wurde mithilfe der _Patentsview_ Datenbank auf dem Goliath Server durchgeführt.
+Außerdem wurde die Patentsuche von Google{empty}footnote:[https://patents.google.com/] eingesetzt zur besseren Einsicht der Patente.
+
 === Strategien
 
-=== Schwierigkeiten
+Um einen Überblick über die Struktur der Datenbank und der verschieden Patente zu gewinnen besteht der erste Teil der Analyse aus einer suche nach dem Begriff _"space"_ in den Titeln und Abstrakten der Patente:
+
+[source, sql]
+----
+SELECT * FROM Patentsview.patent p WHERE CONTAINS(p.title, 'space') OR CONTAINS(p.abstract, 'space');
+----
+
+Dies brachte leider wenig Erfolg, da hier auch Patente mit Wörtern wie _"spaced"_ inkludiert waren.
+Dies hätte zwar mit einem Leerzeichen nach (und vor) dem Suchbegriff behoben werden können, da wären aber immer noch Patente wie _"Infrared space heater"_{empty}footnote:[Patent mit der `patent_id` 3934572] inkludiert waren.
+
+Ein besserer Ansatz war nach Unternehmen (`organization`) zu suchen.
+Doch auch hier traten schnell Probleme auf.
+So ist allein die _NASA_ mit über 20 verschiedenen Namen in der Datenbank vertreten.
+
+Letztendlich brachte die Recherche unter Berücksichtigung von Gruppen die besten Ergebnisse.
+Nach kurzer Recherche mithilfe von Googles Patentsuche passte die Gruppe _Cosmonautics; Vehicles or equipment therefor_{empty}footnote:[https://www.google.com/patents/sitemap/en/Sitemap/B64/B64G.html] am besten zum Thema.
+In der _Patentsview_ Datenbank sind 4645 Patente und 790 unterschiedliche _Assignees_ in dieser Gruppe enthalten.
 
 == 1st Level Analysis
 
 == 2nd Level Analysis
+
+[source, python]
+----
+include::../patents_by_country_year.py[]
+----
 
 == Mapping
 
