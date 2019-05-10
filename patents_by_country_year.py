@@ -3,7 +3,7 @@ from bokeh.models import NumeralTickFormatter
 from bokeh.core.properties import value
 import pandas as pd
 
-data = pd.read_csv("data/patents_in_cosmonautics.csv")
+data = pd.read_csv("data/patents_by_country_year.csv")
 
 countries = data['country'].unique()
 years = data['year'].unique()

@@ -8,7 +8,8 @@
         "titleBar.activeForeground": "#F7FCF1"
     },
     "spellright.language": [
-        "deutsch"
+        "deutsch",
+        "english"
     ],
     "spellright.documentTypes": [
         "markdown",
