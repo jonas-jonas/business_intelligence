@@ -14,6 +14,10 @@ FONTS_DIR="${PWD}/themes/fonts"
 ENTRY_FILE="${PWD}/article.adoc"
 DESTINATION_DIR="${PWD}/../generated" # Hack to reach the generated folder in project root
 
+#Publish
+asciidoctor-pdf -a pdf-stylesdir=$STYLES_DIR -a pdf-style=$THEME -a pdf-fontsdir=$FONTS_DIR $ENTRY_FILE -D $DESTINATION_DIR
+echo "Generated article.pdf in 'generated' directory."
+
 if [ "$1" == "--watch" ]; then
     # Watch for changes in adoc files and regenerate the pdf
     inotifywait -m $PWD -e close_write |
@@ -22,9 +26,5 @@ if [ "$1" == "--watch" ]; then
             asciidoctor-pdf -a pdf-stylesdir=$STYLES_DIR -a pdf-style=$THEME -a pdf-fontsdir=$FONTS_DIR $ENTRY_FILE -D $DESTINATION_DIR
         fi
     done
-else
-    #Publish
-    asciidoctor-pdf -a pdf-stylesdir=$STYLES_DIR -a pdf-style=$THEME -a pdf-fontsdir=$FONTS_DIR $ENTRY_FILE -D $DESTINATION_DIR
-    echo "Generated article.pdf in 'generated' directory."
 fi
 

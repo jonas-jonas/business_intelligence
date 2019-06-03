@@ -1,20 +1,7 @@
 {
     "python.pythonPath": "env/bin/python",
-    "python.linting.pylintEnabled": true,
+    "python.linting.pylintEnabled": false,
     "python.linting.enabled": true,
-    "workbench.colorCustomizations": {
-        "activityBar.background": "#1F330A",
-        "titleBar.activeBackground": "#2C470E",
-        "titleBar.activeForeground": "#F7FCF1"
-    },
-    "spellright.language": [
-        "deutsch",
-        "english"
-    ],
-    "spellright.documentTypes": [
-        "markdown",
-        "latex",
-        "plaintext",
-        "asciidoc"
-    ]
+    "python.linting.flake8Enabled": true,
+
 }
