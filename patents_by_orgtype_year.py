@@ -3,12 +3,12 @@ from bokeh.plotting import figure, show, output_file
 from bokeh.core.properties import value
 from bokeh.io import export_png
 import pandas as pd
+from bokeh.palettes import Cividis5
 
 data = pd.read_csv('data/top5_orgs_by_year_count.csv')
 
 orgs = data['organization'].unique()
 years = data['year'].unique()
-colors = ['#D65DB1', '#FF6F91', '#FF9671', '#FFC75F', '#ec9c32']
 
 data = data.pivot(
     index='year',
@@ -16,7 +16,6 @@ data = data.pivot(
     values='count'
 )
 data = data.fillna(0)
-
 
 p = figure(
     width=800,
@@ -39,7 +38,7 @@ p.vbar_stack(
     x='year',
     width=.8,
     source=source_data,
-    color=colors,
+    color=Cividis5,
     legend=['NASA', 'Navy', 'Boeing', 'Lockheed Martin', value('Thales')]
 )
 

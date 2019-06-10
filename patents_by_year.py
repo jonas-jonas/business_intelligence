@@ -18,7 +18,7 @@ p.vbar(
     width=0.8,
     top='count',
     source=patents,
-    color='#D65DB1',
+    color='#00204C',
 )
 
 p.toolbar_location = None

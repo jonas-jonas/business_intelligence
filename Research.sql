@@ -69,3 +69,26 @@ SELECT p.abstract, p.title, p.year
 FROM Patentsview.patent p
 JOIN Patentsview.cpc_current_group ccg ON ccg.patent_id = p.patent_id AND ccg.group_id = 'B64G'
 WHERE p.firstnamed_assignee_id in (156489, 141793, 135146, 195602, 61225);
+
+WITH PatentGroup(patent_id, title, group_id) AS
+    (
+        SELECT p.patent_id, p.title, ccg.group_id
+        FROM Patentsview.patent p
+        JOIN Patentsview.cpc_current_group ccg
+        ON ccg.patent_id = p.patent_id
+    )
+SELECT p.patent_id, p.title, p.group_id
+FROM PatentGroup p
+JOIN Patentsview.cpc_current_group ccg
+ON ccg.patent_id = p.patent_id AND ccg.group_id = 'B64G'
+
+SELECT p.patent_id, p.title, a.organization
+FROM Patentsview.patent p
+JOIN Patentsview.cpc_current_group c
+ON p.patent_id = c.patent_id AND c.group_id = 'B64G'
+JOIN Patentsview.assignee a
+ON a.assignee_id = p.firstnamed_assignee_id
+WHERE a.assignee_id in (156489, 141793, 135146, 195602, 61225);
+
+
+SELECT * FROM Patentsview.assignee WHERE organization = 'RCA Corporation';
