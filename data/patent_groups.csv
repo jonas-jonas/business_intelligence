@@ -1,0 +1,1618 @@
+patent_id,title,organization
+6128556,CMG control based on angular momentum to control satellite attitude,"Honeywell International, Inc."
+6131068,Accuracy of an inertial measurement unit,"Honeywell International, Inc."
+6154691,Orienting a satellite with controlled momentum gyros,"Honeywell International, Inc."
+6182582,Tilt table,"Honeywell International, Inc."
+6241194,Momentum position control,"Honeywell International, Inc."
+6340137,Moment control unit for spacecraft attitude control,"Honeywell International, Inc."
+6354163,Mitigating gimbal induced disturbances in CMG arrays,"Honeywell International, Inc."
+6371412,Method and apparatus for reducing acoustic coupling,"Honeywell International, Inc."
+6377352,Angular rate and reaction torque assembly,"Honeywell International, Inc."
+6378292,MEMS microthruster array,"Honeywell International, Inc."
+6380526,Employing booster trajectory in a payload inertial measurement unit,"Honeywell International, Inc."
+6467987,Resettable non-explosive actuator,"Honeywell International, Inc."
+6499697,Deployable flexible airlock,"Honeywell International, Inc."
+6504330,Single board motor controller,"Honeywell International, Inc."
+6508437,Launch lock for spacecraft payloads,"Honeywell International, Inc."
+6515221,Modular reaction wheel assembly to shield electronics on a satellite,"Honeywell International, Inc."
+6534887,Microwheel,"Honeywell International, Inc."
+6598385,Two stage gas pilot valve controlling gas flow to a reaction jet nozzle,"Honeywell International, Inc."
+6649027,Water reclamation system,"Honeywell International, Inc."
+6681589,"Space suit backpack using solid adsorbents for cryogenic oxygen storage, freezeout of carbon dioxide and moisture, and ice heat sink","Honeywell International, Inc."
+6681649,Inertial control and measurement system,"Honeywell International, Inc."
+6682019,Minimum energy wheel configurations for energy storage and attitude control,"Honeywell International, Inc."
+6679457,Reaction wheel system with vernier control rotor,"Honeywell International, Inc."
+6715591,Spacecraft isolator launch restraint,"Honeywell International, Inc."
+6758444,Momentum control system and method,"Honeywell International, Inc."
+6772978,Dynamic unbalance compensation system and method,"Honeywell International, Inc."
+6775599,Multi-function reaction wheel assemblies for controlling spacecraft attitude,"Honeywell International, Inc."
+6779759,Integrated power and attitude control system and method,"Honeywell International, Inc."
+6834561,Radially actuated control moment gyroscope,"Honeywell International, Inc."
+6834841,Method and system for decoupling structural modes to provide consistent control system performance,"Honeywell International, Inc."
+6845952,Flywheel prognostic health and fault management system and method,"Honeywell International, Inc."
+6891498,Inertial reference system for a spacecraft,"Honeywell International, Inc."
+6920966,Remotely releasable support strut,"Honeywell International, Inc."
+6926036,Fluidic diverter valve with a non-spherical shuttle element,"Honeywell International, Inc."
+7000308,Method of constructing a rotor for a gyroscopic device,"Honeywell International, Inc."
+7014150,Method and system for optimizing torque in a CMG array,"Honeywell International, Inc."
+7051617,Methods and apparatus for tuned axial damping in rotating machinery with floating bearing cartridge,"Honeywell International, Inc."
+7057734,Integrated reaction wheel assembly and fiber optic gyro,"Honeywell International, Inc."
+7090170,In-orbit satellite sensor alignment determination,"Honeywell International, Inc."
+7090171,Momentum stabilized launch vehicle upper stage,"Honeywell International, Inc."
+7093617,Fluidic diverter valve with a non-spherical shuttle element,"Honeywell International, Inc."
+7093806,Method and system for decoupling structural modes to provide consistent control system performance,"Honeywell International, Inc."
+7152495,System and method for adaptive cancellation of disturbances,"Honeywell International, Inc."
+7185855,Method and system for steering a momentum control system,"Honeywell International, Inc."
+7185857,Thrust vector actuation control system and method,"Honeywell International, Inc."
+7197958,Energy storage flywheel retention system and method,"Honeywell International, Inc."
+7246776,Method and system for CMG array singularity avoidance,"Honeywell International, Inc."
+7273196,System for vehicle attitude and/or momentum control,"Honeywell International, Inc."
+7299817,"Passive, double acting, vacuum actuated vent valve","Honeywell International, Inc."
+7364120,Quantized control-moment gyroscope array,"Honeywell International, Inc."
+7367529,Momentum tube for distributed actuation,"Honeywell International, Inc."
+7370833,Method and system for determining a singularity free momentum path,"Honeywell International, Inc."
+7374134,"Systems and methods for semi-permanent, non-precision inspace assembly of space structures, modules and spacecraft","Honeywell International, Inc."
+7407137,Dual voltage integrated power and attitude control system and method,"Honeywell International, Inc."
+7434355,Inflatable docking station/garage for Mars rover,"Honeywell International, Inc."
+7458264,Generalized inertial measurement error reduction through multiple axis rotation during flight,"Honeywell International, Inc."
+7464899,Method and system for determining a singularity free momentum path,"Honeywell International, Inc."
+7512466,"High-torque, low power reaction wheel array and method","Honeywell International, Inc."
+7561947,Dynamic CMG array and method,"Honeywell International, Inc."
+7580778,Methods and systems for controlling multi-body vehicles with fuel slosh,"Honeywell International, Inc."
+7608951,Fully redundant spacecraft power and attitude control system,"Honeywell International, Inc."
+7690602,Satellite active motion damping,"Honeywell International, Inc."
+7693619,Method and system for controlling sets of collinear control moment gyroscopes with offset determination without attitude trajectory of spacecraft,"Honeywell International, Inc."
+7721998,Self-powered spacecraft attitude control system and method,"Honeywell International, Inc."
+7805226,Hierarchical strategy for singularity avoidance in arrays of control moment gyroscopes,"Honeywell International, Inc."
+7953523,Active control of soft hybrid isolation systems,"Honeywell International, Inc."
+7985162,Signal torque module assembly for use in control moment gyroscope,"Honeywell International, Inc."
+7997157,Control moment gyroscope,"Honeywell International, Inc."
+8002251,Vibration reduction system employing active bearing mounts,"Honeywell International, Inc."
+8014911,Methods and systems for imposing a momentum boundary while reorienting an agile vehicle with control moment gyroscopes,"Honeywell International, Inc."
+8127631,Rotor assembly including strain relief feature,"Honeywell International, Inc."
+8205514,Control moment gyroscope,"Honeywell International, Inc."
+8209070,Methods and systems for efficiently orienting an agile vehicle using a gyroscope array,"Honeywell International, Inc."
+8260036,Object detection using cooperative sensors and video triangulation,"Honeywell International, Inc."
+8324538,Systems and methods for limiting input power and RMS input current drawn from a DC power source,"Honeywell International, Inc."
+8312782,Control moment gyroscope based momentum control systems in small satellites,"Honeywell International, Inc."
+8346538,Methods and systems for reducing angular velocity using a gyroscope array,"Honeywell International, Inc."
+8590407,Control moment gyroscope assembly and method for making the same,"Honeywell International, Inc."
+8596151,Momentum exchange assemblies and inner gimbal assemblies for use in control moment gyroscopes,"Honeywell International, Inc."
+8678323,Launch lock assemblies including axial gap amplification devices and spacecraft isolation systems including the same,"Honeywell International, Inc."
+8708322,Payload launch lock mechanism,"Honeywell International, Inc."
+8726762,Tunable mass damper for use with a reaction wheel assembly,"Honeywell International, Inc."
+8868260,Consolidated vehicle propulsion control using integrated modular avionics,"Honeywell International, Inc."
+8899389,Thermally-conductive vibration isolators and spacecraft isolation systems employing the same,"Honeywell International, Inc."
+8918236,Methods and systems for adjusting attitude using reaction wheels,"Honeywell International, Inc."
+8919213,Control moment gyroscopes including rotors having radially-compliant spokes and methods for the manufacture thereof,"Honeywell International, Inc."
+9354079,Control moment gyroscopes including torsionally-stiff spoked rotors and methods for the manufacture thereof,"Honeywell International, Inc."
+9416842,Isolators having damper-external thermal compensators and spacecraft isolation systems employing the same,"Honeywell International, Inc."
+9440751,Ultra low noise data acquisition circuit,"Honeywell International, Inc."
+9475594,Launch lock assemblies with reduced preload and spacecraft isolation systems including the same,"Honeywell International, Inc."
+9511882,Configurable space station momentum,"Honeywell International, Inc."
+9561873,Gimbal over rate prevention system and method,"Honeywell International, Inc."
+9612117,Integrated reaction wheel assembly arrays and multi-rotor chassis suitable for usage therein,"Honeywell International, Inc."
+9670983,Isolators including damper assemblies having variable annuli and spacecraft isolation systems employing the same,"Honeywell International, Inc."
+9791278,Navigating with star tracking sensors,"Honeywell International, Inc."
+9947232,Methods and apparatus for identifying terrain suitable for aircraft landing,"Honeywell International, Inc."
+7270301,"Surface optical reflector, for space craft such as a geostationary satellite",Thales
+9908641,Satellite propulsion device allowing passive elimination of pressurizing gas,Thales
+9975652,Boxed unwindable solar generator,Thales
+9969509,Knock prevention device for unfurling structure,Thales
+9944411,Satellite with variable master cross section,Thales
+9957067,Propulsion system in two modules for satellite orbit control and attitude control,Thales
+9878807,Thrust nozzle system and method for the orbit and attitude control of a geostationary satellite,Thales
+9835711,Device and method for positioning a star tracker on a structure,Thales
+9841241,Mechanical-thermal structure suitable for a space environment,Thales
+9796485,Retractable deployable structure using a tape spring,Thales
+9798008,Method of guidance for placing a satellite on station,Thales
+9764857,"Deployable mast with spontaneous autonomous deployment, and satellite",Thales
+9676502,Assembly for aiming an instrument,Thales
+9718639,"Device for unfurling and refurling a flexible structure, and a flexible unfurlable structure and satellite both equipped with such a device",Thales
+9605430,Tape spring retractable deployable structure and method,Thales
+9669949,Tape spring deployable structure,Thales
+9650159,Method and device for electric satellite propulsion,Thales
+9650160,Satellite with deployable payload modules,Thales
+9309011,Adapted torque motorisation system for deployable spatial structures,Thales
+9399528,Method and system for stationing a satellite,Thales
+9387942,Propulsion system with four modules for satellite orbit control and attitude control,Thales
+9573703,Propulsion system for controlling the orbit and controlling the attitude of a satellite,Thales
+9527607,Propulsion system for satellite orbit control and attitude control,Thales
+8734043,Webbed through pivot,Thales
+8757553,Active tie-rod system for holding and smoothly releasing space appendages,Thales
+8783620,Method and system for controlling a set of at least two satellites adapted to provide a service,Thales
+8783621,"Method and system for controlling a set of at least two satellites, designed to provide a service on a geostationary orbit, rendering said service on a non-geostationary orbit",Thales
+8770521,Device for protecting an optical instrument of a satellite,Thales
+8798816,Method and system for unloading the inertia wheels of a spacecraft,Thales
+8952847,"System of geographical location of a radio signal transmitter located on the earth's surface, and associated method of distributed interferometry",Thales
+8992108,Self-driven articulation and self-regulated articulated assembly,Thales
+8939408,Hybrid assembly equipped with at least one solar panel,Thales
+8939588,Device for protection of a multibeam optical instrument,Thales
+9079672,Through-pivot with flexible elements and spacecraft comprising such a pivot,Thales
+9045241,Method for reducing the angular momentum and controlling the attitude of a spacecraft,Thales
+9221559,Autonomous spontaneous deployment deployable mast and satellite including at least one such mast,Thales
+9227739,Motorization system for a hinge with crossed winding means with reliability-enhanced rolling,Thales
+9206872,Unfurling structure with knock prevention device,Thales
+9210403,System for space-based imaging in three dimensions,Thales
+9212692,Compact flexible cardan joint and spacecraft comprising such a joint,Thales
+9284071,Device and method for deorbiting of a satellite,Thales
+9242744,Motorization system with torque suitable for hinge with crossed winding means,Thales
+8245587,System for deploying spatial appendices and spatial appendix comprising such a system,Thales
+8251315,Formation flight device intended for a solar coronagraphy mission,Thales
+8282045,Craft and method of coupling a propulsion system to a regenerative fuel cell system,Thales
+8292233,Solar protection device for space instrument,Thales
+8322659,Method for lightening the weight of fuel stowed onboard during an interplanetary mission,Thales
+8351179,Solar generator with concentrator of primary electric arcs,Thales
+8040021,"Device for the active damping of the vibrations experienced by a fragile part of moving equipment, with autonomous power supply",Thales
+8096511,"System for controlling the deployment of spacecraft required to fly in formation, by simultaneous and high-precision determination of their positions",Thales
+8150567,"Device for control of relative position(s) by measurements of power, for a spacecraft of a group of spacecraft in formation",Thales
+8151414,Self-driven articulation for an articulated assembly such as a satellite solar panel,Thales
+8186121,Support device for elements on a piece of space equipment with flexible deploying arms,Thales
+8550407,Large rigid deployable structures and method of deploying and locking such structures,Thales
+8511615,Deployable structure forming an antenna equipped with a solar generator for a satellite,Thales
+8496209,Device for deploying and aiming structural elements in a space environment,Thales
+8468902,"Reusable device for holding at least one moving object securely autonomously and without shocks, for spacecraft",Thales
+8378542,Magnetic centre-finding device with no magnet on the rotor and with small air gap,Thales
+8463467,"Device for controlling relative position(s) by analyzing dual-frequency signals, for a spacecraft of a group of spacecraft in formation",Thales
+8450596,Solar generator panel and an associated satellite,Thales
+8451166,Distributed distance measurement system for locating a geostationary satellite,Thales
+8672272,Coating for prevention of electrostatic discharge within an equipment in a spatial environment,Thales
+8608113,Method for capturing a container of planet-ground samples traveling in open space,Thales
+8616271,Thermal control device on board a spacecraft,Thales
+8583297,Method and device for optimization of the mass of a satellite,Thales
+7513461,Articulated assembly of solar generator panels and space vehicle,Thales
+7514823,Spacecraft regulation unit with decentralized bus capacitance,Thales
+7561262,Lateral and longitudinal metrology system,Thales
+7624949,Satellite provided with means for countering solar pressure,Thales
+7464902,Satellite with electromagnetic control of objects,Thales
+7410129,Stacking tie-rod release device for a deployable structure,Thales
+7368656,"Solar cell for a solar generator panel, a solar generator panel, and a space vehicle",Thales
+7321095,Solar generator panel and a spacecraft including it,Thales
+7745768,Absolute target system enhanced by combining a star sensor and a formation flight optical metrological sensor,Thales
+7850124,Long-service-life rotary positioning device for space applications,Thales
+7880081,Limited discharge current propagation solar generator,Thales
+7856735,Measuring tape with thermal deployment and deployable structure comprising said measuring tape,Thales
+7866109,Structural device for improving the thermal expansion resistance of a structure,Thales
+7911100,Dual-stage centering magnetic bearing,Thales
+7988098,Actuator for systems for guiding space equipment with a variable rate of rotation,Thales
+5563794,Repetitive control of thermal shock disturbance,Hughes Aircraft Company
+5566909,System and method for deploying multiple probes,Hughes Aircraft Company
+5595360,Optimal transfer orbit trajectory using electric propulsion,Hughes Aircraft Company
+5597141,Efficient mass translation device,Hughes Aircraft Company
+5610848,Robust resonance reduction using staggered posicast filters,Hughes Aircraft Company
+5614033,Rigid solar panel with discrete lattice and carrier structures bonded together,Hughes Aircraft Company
+5628831,Method for cleaning contaminants from a body in space using a space charge neutral plasma,Hughes Aircraft Company
+5667171,Satellite spin axis stabilization using a single degree of freedom transverse momentum storage device,Hughes Aircraft Company
+5692707,Universal spacecraft attitude steering control system,Hughes Aircraft Company
+5696429,Method for charge neutralization of surface in space with space-charge neutral plasma,Hughes Aircraft Company
+5716030,Aperture door and calibration source for spacecraft remote sensing devices,Hughes Aircraft Company
+5749402,Integrated storage and transfer system and method for spacecraft propulsion systems,Hughes Aircraft Company
+5770269,Thermal control coating,Hughes Aircraft Company
+5437420,High torque double gimbal control moment gyro,Hughes Aircraft Company
+5441222,Attitude control of spinning spacecraft,Hughes Aircraft Company
+5443231,Method and apparatus for a satellite station keeping,Hughes Aircraft Company
+5411227,Satellite thruster uncertainty estimation in transition mode,Hughes Aircraft Company
+5418431,RF plasma source and antenna therefor,Hughes Aircraft Company
+5412574,Method of attitude determination using earth and star sensors,Hughes Aircraft Company
+5413293,Magnetic torque attitude control systems,Hughes Aircraft Company
+5394075,Spacecraft bus regulation using solar panel position,Hughes Aircraft Company
+5383359,Determining liquid fill fraction on a spacecraft,Hughes Aircraft Company
+5400987,Variable angle latching mechanism for spacecraft,Hughes Aircraft Company
+5479959,Integrated storage and transfer system and method for spacecraft propulsion systems,Hughes Aircraft Company
+5488282,System and method for reconditioning spacecraft battery,Hughes Aircraft Company
+5499656,Integrated storage and transfer system and method for spacecraft propulsion systems,Hughes Aircraft Company
+5452869,On-board three-axes attitude determination and control system,Hughes Aircraft Company
+5514936,RF plasma source and method for plasma cleaning of surface in space,Hughes Aircraft Company
+5517418,Spacecraft disturbance compensation using feedforward control,Hughes Aircraft Company
+5540405,Method and apparatus for compensating for magnetic disturbance torques on a satellite,Hughes Aircraft Company
+5284309,Propellant immobilizing system and method,Hughes Aircraft Company
+5261631,Momentum wheel platform steering system and method,Hughes Aircraft Company
+5253944,Precision alignment and mounting apparatus,Hughes Aircraft Company
+5255879,Three axes stabilized spacecraft and method of sun acquisition,Hughes Aircraft Company
+5257759,Method and apparatus for controlling a solar wing of a satellite using a sun sensor,Hughes Aircraft Company
+5223702,Method and apparatus for rotational rate determination using a stellar reference,Hughes Aircraft Company
+5227943,Power fault protection for high momentum systems,Hughes Aircraft Company
+5311435,Method for station keeping control of flexible spacecraft using onboard gain scheduling scheme,Hughes Aircraft Company
+5318255,Stage separation mechanism for space vehicles,Hughes Aircraft Company
+5310143,Three axis thruster modulation,Hughes Aircraft Company
+5310144,Method and apparatus for satellite torque balancing,Hughes Aircraft Company
+5308025,Spacecraft spin axis capture system and method,Hughes Aircraft Company
+5348255,System and method for sensing attitude of a spacecraft with equilized star tracker errors along three orthogonal axes,Hughes Aircraft Company
+5337981,Method and apparatus for compensating for solar torque transients on a satellite during a solar eclipse,Hughes Aircraft Company
+5064574,Method and composition for providing electrostatic discharge protection for spacecraft,Hughes Aircraft Company
+5067673,Essentially passive method for inverting the orientation of a dual spin spacecraft,Hughes Aircraft Company
+5098041,Attitude control system for momentum-biased spacecraft,Hughes Aircraft Company
+5080307,Spacecraft earth-pointing attitude acquisition method,Hughes Aircraft Company
+5122067,Umbilical release mechanism,Hughes Aircraft Company
+5184790,Two-axis attitude correction for orbit inclination,Hughes Aircraft Company
+5163640,Active spin axis control for spinning space vehicles,Hughes Aircraft Company
+5134274,Two-sided solid-state imaging device,Hughes Aircraft Company
+4506852,Payload deployment from launch vehicle using canted springs for imparting angular and linear velocities,Hughes Aircraft Company
+4534998,Conductive coating process,Hughes Aircraft Company
+4600169,Integrated spacecraft cradle and shuttle structure,Hughes Aircraft Company
+4623951,Electrically conductive composite structure,Hughes Aircraft Company
+4632339,Spacecraft payload ejection mechanism,Hughes Aircraft Company
+4711417,Apparatus for ejection of a spacecraft,Hughes Aircraft Company
+4705646,Conductive coating,Hughes Aircraft Company
+4715565,Clamping connection assembly for spacecraft,Hughes Aircraft Company
+4722183,Method for controlling the utilization of fluid bipropellant in a spacecraft rocket engine,Hughes Aircraft Company
+4699339,Apparatus and method for transporting a spacecraft and a fluid propellant from the earth to a substantially low gravity environment above the earth,Hughes Aircraft Company
+4679752,Payload depolyment from shuttle employing an ejection restraint device,Hughes Aircraft Company
+3952324,Solar panel mounted blocking diode,Hughes Aircraft Company
+3937423,Nutation and roll error angle correction means,Hughes Aircraft Company
+3973745,Solar cell arrangement for a spin stabilized vehicle,Hughes Aircraft Company
+3996804,Method for remotely determining the dynamic imbalance of and for changing the spin rate and center of gravity of a spinning body,Hughes Aircraft Company
+4096427,Nutation damping in dual-spin stabilized devices,Hughes Aircraft Company
+4213586,Spin activated safety circuit for spacecraft,Hughes Aircraft Company
+4272257,Liquid-vapor separator,Hughes Aircraft Company
+4290570,Three point attachment for an ejectable spacecraft,Hughes Aircraft Company
+4300737,Satellite deployment system with remotely controlled relocking capability,Hughes Aircraft Company
+4303214,Apparatus for gyroscopic ejection of shuttle launched spacecraft,Hughes Aircraft Company
+4324374,Integrated spacecraft and cradle structure,Hughes Aircraft Company
+4326684,Spacecraft with internal propulsion stages,Hughes Aircraft Company
+4345728,Method for controlling the attitude of a spinning spacecraft in the presence of solar pressure,Hughes Aircraft Company
+4359201,Payload deployment from shuttle with linear and angular velocity,Hughes Aircraft Company
+4467985,Vortex inhibiting closed spherical outlet structure,Hughes Aircraft Company
+4470568,Method for changing the spin rate of a spinning body,Hughes Aircraft Company
+4757964,Method for controlling the attitude of a spinning body in orbit,Hughes Aircraft Company
+4752884,Precision platform pointing controller for a dual-spin spacecraft,Hughes Aircraft Company
+4753506,Off axis optical communication system,Hughes Aircraft Company
+4753683,Gallium arsenide solar cell system,Hughes Aircraft Company
+4741502,Method and apparatus for launching a spacecraft by use of a recoverable upper rocket stage,Hughes Aircraft Company
+4837699,Method for controlling the spin axis attitude of a spinning spacecraft,Hughes Aircraft Company
+4842106,Rate controllable damping mechanism,Hughes Aircraft Company
+4844380,Detachable thrust vector mechanism for an aeronautical vehicle,Hughes Aircraft Company
+4846425,Method and apparatus for atomic beam irradiation,Hughes Aircraft Company
+4824052,Nutation sensor and nutation control system for a dual-spin stabilized satellite,Hughes Aircraft Company
+4825646,Spacecraft with modulated thrust electrostatic ion thruster and associated method,Hughes Aircraft Company
+4861445,Barrier for molecular contaminates,Hughes Aircraft Company
+4849028,Solar cell with integrated interconnect device and process for fabrication thereof,Hughes Aircraft Company
+4854526,Spacecraft design enabling the compact nesting of multiple spacecraft in the launch vehicle,Hughes Aircraft Company
+4854975,Solar cell with integrated interconnect device and process for fabrication thereof,Hughes Aircraft Company
+4880185,Low pressure reaction control propulsion system for a spacecraft,Hughes Aircraft Company
+4883244,Satellite attitude determination and control system with agile beam sensing,Hughes Aircraft Company
+4961551,Stabilization of a spinning spacecraft of arbitary shape,Hughes Aircraft Company
+4949922,Satellite control system,Hughes Aircraft Company
+4910050,Method and composition for providing electrostatic discharge protection for spacecraft,Hughes Aircraft Company
+5052640,Spacecraft design enabling the flat packing of multiple spacecraft in the launch vehicle,Hughes Aircraft Company
+5012992,Spin stabilization via momentum wheels or similar devices,Hughes Aircraft Company
+5020746,Method for satellite station keeping,Hughes Aircraft Company
+5546651,Apparatus for encapsulating space launch payloads,Lockheed Martin Corporation
+5695306,Fusible member connection apparatus and method,Lockheed Martin Corporation
+5718531,Low shock release device,Lockheed Martin Corporation
+5720452,Solar panel parallel mounting configuration,Lockheed Martin Corporation
+5730211,Apparatus and method for operating a heat pipe panel assembly,Lockheed Martin Corporation
+5750915,Launch mount pedestal and umbilical mast,Lockheed Martin Corporation
+5743492,Payload housing and assembly joint for a launch vehicle,Lockheed Martin Corporation
+6453937,Hot gas valve construction for reducing thermal shock effects,Lockheed Martin Corporation
+6450452,Fly back booster,Lockheed Martin Corporation
+6444271,Durable refractory ceramic coating,Lockheed Martin Corporation
+6422514,Common bulkhead cryogenic propellant tank,Lockheed Martin Corporation
+6467731,Integrated sample return capsule,Lockheed Martin Corporation
+6457306,Electrical drive system for rocket engine propellant pumps,Lockheed Martin Corporation
+6454215,Spacecraft architecture for disturbance-free payload,Lockheed Martin Corporation
+6481672,Gimbaled thruster control system,Lockheed Martin Corporation
+6471161,Satellite attitude control system,Lockheed Martin Corporation
+6536090,Method for making a cryogenic tank joint,Lockheed Martin Corporation
+6530213,Method and apparatus for ignition detection,Lockheed Martin Corporation
+6530718,Connector assembly,Lockheed Martin Corporation
+6554228,Aerodynamic fairing,Lockheed Martin Corporation
+6547476,Universal spacecraft separation node,Lockheed Martin Corporation
+6543724,Miniature satellite design,Lockheed Martin Corporation
+6499696,Rocket engine with reduced thrust and stagable venting system,Lockheed Martin Corporation
+6494405,PEAR composites for oxygen systems,Lockheed Martin Corporation
+6491258,Space elevator,Lockheed Martin Corporation
+6491259,Halogenated composites for oxygen systems,Lockheed Martin Corporation
+6585193,Spacecraft with integrated pulsed-plasma thrusters,Lockheed Martin Corporation
+6592981,Oxidation resistant insulating sandwich tiles,Lockheed Martin Corporation
+6558785,Insulated reentry heat shield,Lockheed Martin Corporation
+6568638,Modular spacecraft structure,Lockheed Martin Corporation
+6631314,Propellant utilization system,Lockheed Martin Corporation
+6626603,Screw mounting installation and apparatus,Lockheed Martin Corporation
+6620519,System and method for inhibiting corrosion of metal containers and components,Lockheed Martin Corporation
+6629672,Sun sensor alignment compensation system,Lockheed Martin Corporation
+6622971,Adapter for connecting rocket stages,Lockheed Martin Corporation
+6600976,Gyroless control system for zero-momentum three-axis stabilized spacecraft,Lockheed Martin Corporation
+6616092,Reusable flyback rocket booster and method for recovering same,Lockheed Martin Corporation
+6616104,Spacecraft configuration and attitude steering method for highly inclined orbit (HIO) communications,Lockheed Martin Corporation
+6568640,Inflatable satellite design,Lockheed Martin Corporation
+6732977,System for on-orbit correction of spacecraft payload pointing errors,Lockheed Martin Corporation
+6718610,Automated fuel tank assembly system & method,Lockheed Martin Corporation
+6702234,Fault tolerant attitude control system for zero momentum spacecraft,Lockheed Martin Corporation
+6695263,System for geosynchronous spacecraft rapid earth reacquisition,Lockheed Martin Corporation
+6695256,Cryogenic propellant depletion system for a launch vehicle,Lockheed Martin Corporation
+6637701,Gimbaled ion thruster arrangement for high efficiency stationkeeping,Lockheed Martin Corporation
+6637702,Nested beam deployable solar array,Lockheed Martin Corporation
+6668441,Screw mounting installation method,Lockheed Martin Corporation
+6650212,Electromagnetic latch,Lockheed Martin Corporation
+6658863,Airborne gas storage and supply system,Lockheed Martin Corporation
+7198232,Optimal speed management for reaction wheel control system and method,Lockheed Martin Corporation
+7150340,Hub drive and method of using same,Lockheed Martin Corporation
+7252890,Anti-contamination coated multi-layer insulation,Lockheed Martin Corporation
+7267303,"Method and system for providing cruciform steered, bent biconic and plasma suppression for maximum accuracy",Lockheed Martin Corporation
+7246775,System and method of substantially autonomous geosynchronous time-optimal orbit transfer,Lockheed Martin Corporation
+7237752,System and method for reducing plasma induced communication disruption utilizing electrophilic injectant and sharp reentry vehicle nose shaping,Lockheed Martin Corporation
+7278612,Swaged cable deployment in space,Lockheed Martin Corporation
+7270302,Scalable thermal control system for spacecraft mounted instrumentation,Lockheed Martin Corporation
+7275285,Deployment hinge,Lockheed Martin Corporation
+7104506,Spacecraft disturbance trimming system,Lockheed Martin Corporation
+7051980,Efficient orbit sparing system for space vehicle constellations,Lockheed Martin Corporation
+6923249,Passive thermal control system,Lockheed Martin Corporation
+6866232,Automated docking of space vehicle,Lockheed Martin Corporation
+6857602,Environmental control system and method of using the same,Lockheed Martin Corporation
+6868316,Satellite constellation system,Lockheed Martin Corporation
+6851651,"Constellation of spacecraft, and broadcasting method using said constellation",Lockheed Martin Corporation
+6896441,Automated latching device with active damping,Lockheed Martin Corporation
+6883757,System and method for increasing the roll offset operating range for a spacecraft,Lockheed Martin Corporation
+6908064,High-efficiency REA optimized stationkeeping,Lockheed Martin Corporation
+6749942,Durable refractory ceramic coating,Lockheed Martin Corporation
+6769830,Connector assembly,Lockheed Martin Corporation
+6776258,Acoustic blanket system,Lockheed Martin Corporation
+6837464,Lox-compatible composite tank for aerospace applications,Lockheed Martin Corporation
+6845303,Micro-satellite and satellite formation for inverse and distributed proximity operations,Lockheed Martin Corporation
+6845950,System for high efficiency spacecraft orbit transfer,Lockheed Martin Corporation
+6823918,Integrally reinforced composite sandwich joint and process for making the same,Lockheed Martin Corporation
+6076770,Folding truss,Lockheed Martin Corporation
+6062527,Flexurally hinged tripod support boom,Lockheed Martin Corporation
+6050525,Asymmetric open rosette constellations,Lockheed Martin Corporation
+6061243,Modular and multifunctional structure,Lockheed Martin Corporation
+6107770,Control system for counter-oscillating masses,Lockheed Martin Corporation
+6113035,Attitude control by modulating the rate of propellant depletion,Lockheed Martin Corporation
+6116368,Electric vehicle with battery regeneration dependent on battery charge state,Lockheed Martin Corporation
+6098926,Composite fairing with integral damping and internal helmholz resonators,Lockheed Martin Corporation
+6014987,Anti-vortex baffle assembly with filter for a tank,Lockheed Martin Corporation
+6026337,Microbolometer earth sensor assembly,Lockheed Martin Corporation
+6036144,Mass producible launch system,Lockheed Martin Corporation
+6038736,Hinge for deployable truss,Lockheed Martin Corporation
+5983802,Separation system,Lockheed Martin Corporation
+5992328,Separation system,Lockheed Martin Corporation
+5984237,Delta-V targeting system for three-axis controlled spacecraft,Lockheed Martin Corporation
+5969287,Separation system,Lockheed Martin Corporation
+5852792,Spacecraft boresight calibration filter,Lockheed Martin Corporation
+5850617,System and method for route planning under multiple constraints,Lockheed Martin Corporation
+5850989,Method and system for rapidly assembling a launch vehicle,Lockheed Martin Corporation
+5845875,Modular launch pad system,Lockheed Martin Corporation
+5799904,Temperature control for spacecraft inertial control unit,Lockheed Martin Corporation
+5816539,Orbital assist module and interstage,Lockheed Martin Corporation
+5806804,Adaptive harmonic disturbance compensation system,Lockheed Martin Corporation
+5808732,System for referencing a direction of an output beam,Lockheed Martin Corporation
+5870063,Spacecraft with modular communication payload,Lockheed Martin Corporation
+5941328,Electric vehicle with variable efficiency regenerative braking depending upon battery charge state,Lockheed Martin Corporation
+5935176,Momentum wheel oscillation filter,Lockheed Martin Corporation
+5950965,Split shell spacecraft,Lockheed Martin Corporation
+5927654,Spacecraft with active antenna array protected against temperature extremes,Lockheed Martin Corporation
+5929595,Hybrid electric vehicle with traction motor drive allocated between battery and auxiliary source depending upon battery charge state,Lockheed Martin Corporation
+5924648,System for upending/reclining launch vehicles,Lockheed Martin Corporation
+5910722,Hybrid electric vehicle with reduced auxiliary power to batteries during regenerative braking,Lockheed Martin Corporation
+5911389,Wave based satellite constellation,Lockheed Martin Corporation
+6131395,Propellant densification apparatus and method,Lockheed Martin Corporation
+6135391,Retention system for a detachable spacecraft capsule mounted on a spacecraft,Lockheed Martin Corporation
+6123295,Fuel tank for lifting body re-entry vehicle,Lockheed Martin Corporation
+6126115,Apparatus for retaining and releasing a payload,Lockheed Martin Corporation
+6126371,Shape memory metal alloy preload attenuation device,Lockheed Martin Corporation
+6158088,Deployable hinge assembly providing end of travel damping,Lockheed Martin Corporation
+6188874,Control and telemetry signal communication system for geostationary satellites,Lockheed Martin Corporation
+6212752,Automated fuel tank assembly system & method,Lockheed Martin Corporation
+6203237,Apparatus for releasably connecting first and second structures together,Lockheed Martin Corporation
+6206327,Modular spacecraft bus,Lockheed Martin Corporation
+6230790,Thermal control system for spacecraft,Lockheed Martin Corporation
+6227494,Deployable spacecraft lander leg system and method,Lockheed Martin Corporation
+6360995,Docking system & method for space travel vehicle,Lockheed Martin Corporation
+6394395,Combination solar array assembly and antenna for a satellite,Lockheed Martin Corporation
+6375125,Hybrid composites for oxygen propulsion systems,Lockheed Martin Corporation
+6341762,Service valve and use of same in reaction control system,Lockheed Martin Corporation
+6334589,Cyanate ester composites for oxygen containment,Lockheed Martin Corporation
+6321930,Cryogenic tank joint,Lockheed Martin Corporation
+6264144,Material assembly for an inflatable aerodynamic braking device for spacecraft deceleration and the like,Lockheed Martin Corporation
+6290086,Cryogenic tank joint,Lockheed Martin Corporation
+6290180,Photocatalytic coatings on optical solar reflectors to decompose organic contaminants,Lockheed Martin Corporation
+6283412,Anti-slosh liquid propellant tank for launch vehicles,Lockheed Martin Corporation
+6298786,Frangible access panel system,Lockheed Martin Corporation
+9352855,Heat generating transfer orbit shield,Lockheed Martin Corporation
+9315280,Heat pipe with axial wick,Lockheed Martin Corporation
+9573702,Deployed radar panel for space situational awareness,Lockheed Martin Corporation
+9505503,Reactants sprayed into plasma flow for rocket propulsion,Lockheed Martin Corporation
+9464006,Nanoporous coating synthesis and apparatus,Lockheed Martin Corporation
+9625712,Occulter for exoplanet exploration,Lockheed Martin Corporation
+9669948,Side-by-side dual-launch arrangement with improved payload compatibility,Lockheed Martin Corporation
+8960608,Deployable radiator having an increased view factor,Lockheed Martin Corporation
+8967547,Spacecraft east-west radiator assembly,Lockheed Martin Corporation
+8850746,Seal assembly with leak test components,Lockheed Martin Corporation
+8820684,Spacecraft heat dissipation system,Lockheed Martin Corporation
+8800932,Medium earth orbit constellation with simple satellite network topology,Lockheed Martin Corporation
+8759666,Wavelength conversion photovoltaics,Lockheed Martin Corporation
+9123850,Systems and methods for generating electric current from hyperthermal chemical reaction,Lockheed Martin Corporation
+9114890,Thruster orbit control method and configuration,Lockheed Martin Corporation
+9250043,System and method for early intercept ballistic missile defense,Lockheed Martin Corporation
+9250312,High altitude radio frequency positioning system,Lockheed Martin Corporation
+9296494,Thruster orbit control method and configuration,Lockheed Martin Corporation
+8113468,Precision attitude control system for gimbaled thruster,Lockheed Martin Corporation
+8115994,Scanning wide field telescope and method,Lockheed Martin Corporation
+8123173,Attitude and antenna steering system and method for spacecraft,Lockheed Martin Corporation
+8257826,Nanoporous coating synthesis and apparatus,Lockheed Martin Corporation
+8714492,Non-interfering deployable radiator arrangement for geo spacecraft,Lockheed Martin Corporation
+8715781,Nanoporous coating synthesis and apparatus,Lockheed Martin Corporation
+8672065,Vehicle having an articulated suspension and method of using same,Lockheed Martin Corporation
+8434712,Methods and apparatus for driving rotational elements of a vehicle,Lockheed Martin Corporation
+8367178,Carbon phenolic ablative gap filler,Lockheed Martin Corporation
+8371534,System for isolating vibration among a plurality of instruments,Lockheed Martin Corporation
+8466397,Methods and apparatus for varying a trim of a vehicle,Lockheed Martin Corporation
+8480241,Occulter for exoplanet exploration,Lockheed Martin Corporation
+8515712,Information based optimal reduced state estimator for poorly conditioned estimation problems,Lockheed Martin Corporation
+7835826,Attitude determination system for yaw-steering spacecraft,Lockheed Martin Corporation
+7832687,"On-orbit storage, plane change, and injection to final orbit of space vehicles",Lockheed Martin Corporation
+7832688,Optimized land mobile satellite configuration and steering,Lockheed Martin Corporation
+7786925,Determination of the outline of an elevated object,Lockheed Martin Corporation
+7762194,Apparatus comprising a payload ejection mechanism,Lockheed Martin Corporation
+7762498,Enhanced high-efficiency spacecraft propulsion system,Lockheed Martin Corporation
+7762499,Independent East/West thermal management system,Lockheed Martin Corporation
+7669803,Optimized land mobile satellite system for north american coverage,Lockheed Martin Corporation
+7693702,Visualizing space systems modeling using augmented reality,Lockheed Martin Corporation
+7726426,Hub drive and method of using same,Lockheed Martin Corporation
+7691452,Anti-contamination coated multi-layer insulation,Lockheed Martin Corporation
+7720604,Stationkeeping optimization for inclined elliptical satellite orbit constellations,Lockheed Martin Corporation
+7721997,"Method and system for providing cruciform steered, bent biconic and plasma suppression for maximum accuracy",Lockheed Martin Corporation
+8019493,Spacecraft thruster torque feedforward calibration system,Lockheed Martin Corporation
+8019494,Propellant management system and method for multiple booster rockets,Lockheed Martin Corporation
+7988097,Precision attitude control system for gimbaled thruster,Lockheed Martin Corporation
+7957854,Active vibration damping (AVD) system for precision pointing spacecraft,Lockheed Martin Corporation
+7967256,Spacecraft battery thermal management system,Lockheed Martin Corporation
+7946533,Optimized land mobile satellite system for North American coverage,Lockheed Martin Corporation
+7931962,Pyrolizing flexible ablator material,Lockheed Martin Corporation
+7874520,"Satellite with deployable, articulatable thermal radiators",Lockheed Martin Corporation
+7917256,Active vibration damping (AVD) system for precision pointing spacecraft,Lockheed Martin Corporation
+7919167,Carbon-phenolic ablator monoliths and their methods of manufacture,Lockheed Martin Corporation
+7357356,Attitude and antenna steering system for geosynchronous earth orbit (GEO) spacecraft,Lockheed Martin Corporation
+7376496,Spacecraft magnetic momentum control system,Lockheed Martin Corporation
+7464898,Precision thrust/sun tracking attitude control system for gimbaled thruster,Lockheed Martin Corporation
+7474249,Systems and methods for dedicating power to a radar module,Lockheed Martin Corporation
+7477966,Propellant management system and method for multiple booster rockets,Lockheed Martin Corporation
+7513462,Satellite equipment mounting panel,Lockheed Martin Corporation
+7624948,Optimized land mobile satellite configuration and steering method,Lockheed Martin Corporation
+7631839,Enhanced multiple instrument distributed aperture sensor,Lockheed Martin Corporation
+7654490,Precision attitude control system for gimbaled thruster,Lockheed Martin Corporation
+9889951,Spacecraft east-west radiator assembly,Lockheed Martin Corporation
+9914550,Reusable resupply systems and methods,Lockheed Martin Corporation
+9921099,Spherical occulter coronagraph cubesat,NASA
+9938023,System and method for an integrated satellite platform,NASA
+9944410,System and method for air launch from a towed aircraft,NASA
+8662213,Locomotion of amorphous surface robots,NASA
+8668168,Space vehicle valve system,NASA
+8694183,Partial automated alignment and integration system,NASA
+8697216,"Systems, apparatuses, and methods for using durable adhesively bonded joints for sandwich structures",NASA
+8468794,Electric propulsion apparatus,NASA
+8498756,Movable ground based recovery system for reuseable space flight hardware,NASA
+8236413,Combination structural support and thermal protection system,NASA
+8196858,Aircraft configured for flight in an atmosphere having low density,NASA
+8251312,Method and system for control of upstream flowfields of vehicle in supersonic or hypersonic atmospheric flight,NASA
+8163243,Zero-G condensing heat exchanger with integral disinfection,NASA
+8122646,Method and apparatus for an inflatable shell,NASA
+8070105,Inflatable nested toroid structure,NASA
+8090484,Orientation control method and system for object in motion,NASA
+8047472,Ram booster,NASA
+8047473,Connecting node and method for constructing a connecting node,NASA
+7662459,Versatile honeycomb matrix heat shield,NASA
+7513459,"Method and associated apparatus for capturing, servicing, and de-orbiting earth satellites using robotics",NASA
+7513460,"Method and associated apparatus for capturing, servicing, and de-orbiting earth satellites using robotics",NASA
+7543779,Low-impact mating system,NASA
+7540143,Boiler and pressure balls monopropellant thermal rocket engine,NASA
+7515257,Short-range/long-range integrated target (SLIT) for video guidance sensor rendezvous and docking,NASA
+7438264,"Method and associated apparatus for capturing, servicing and de-orbiting earth satellites using robotics",NASA
+7431242,Re-entry vehicle shape for enhanced performance,NASA
+7924415,Apparatus and method for a light direction sensor,NASA
+7878348,Robotic-movement payload lifter and manipulator,NASA
+8002219,Multi-functional annular fairing for coupling launch abort motor to space vehicle,NASA
+7735265,Foam rigidized inflatable structural assemblies,NASA
+7686529,Two-axis joint assembly and method,NASA
+7767305,High efficiency tantalum-based ceramic composite structures,NASA
+7815149,Magnetic capture docking mechanism,NASA
+7840387,System and method of designing a load bearing layer that interfaces to a structural pass-through of an inflatable vessel,NASA
+9494143,Ion propulsion thruster including a plurality of ion optic electrode pairs,NASA
+9592923,Flexible ablators,NASA
+9546008,Miniature release mechanism or diminutive assembly for nanosatellite deployables (DANY),NASA
+9555905,"System, apparatus, and method for active debris removal",NASA
+9370918,Methods for using durable adhesively bonded joints for sandwich structures,NASA
+9382020,Deep space positioning system,NASA
+9365302,Multi-dimensional damage detection,NASA
+9434486,System and apparatus for deploying a satellite,NASA
+9440752,Modification of surface density of a porous medium,NASA
+9141113,Probabilistic surface characterization for safe landing hazard detection and avoidance (HDA),NASA
+9168659,Tension stiffened and tendon actuated manipulator,NASA
+9051063,Space vehicle heat shield having edgewise strips of ablative material,NASA
+9052236,Method for ground-to-satellite laser calibration system,NASA
+9297368,Multi-thruster propulsion apparatus,NASA
+9233765,Multi-dimensional damage detection,NASA
+9229451,Locomotion of amorphous surface robots,NASA
+9194977,Active response gravity offload and method,NASA
+8733706,"Transformable and reconfigurable entry, descent and landing systems and methods",NASA
+8767210,Method for ground-to-space laser calibration system,NASA
+9021782,Aerospace laser ignition/ablation variable high precision thruster,NASA
+5657795,Method to produce flexible ceramic thermal protection system resistant to high aeroacoustic noise,NASA
+5568366,Compact solar simulator with a small subtense angle and controlled magnification optics,NASA
+5744252,Flexible ceramic-metal insulation composite and method of making,NASA
+5738308,Ion thruster support and positioning system,NASA
+5735488,Method and apparatus for coupling space vehicles,NASA
+5705012,Method for molding planar billet of thermally insulative material into predetermined non-planar shape,NASA
+5697108,Suitlock docking mechanism,NASA
+5689951,Method and apparatus for pressure pulse arcjet starting,NASA
+5672389,Low-density resin impregnated ceramic article and method for making the same,NASA
+5407152,Pre-integrated truss space station and method of assembly,NASA
+5401069,Inflatable rescue device,NASA
+5392844,Quick connect coupling,NASA
+5396815,Suspension system for gimbal supported scanning payloads,NASA
+5397244,Preload release mechanism,NASA
+5441221,Heavy-lift vehicle-launched space station method and apparatus,NASA
+5443247,Tuneable rotating unbalanced mass device,NASA
+5436075,Silicon carbide sewing thread,NASA
+5540046,Method and apparatus for pressure pulse arcjet starting,NASA
+5536562,Low-density resin impregnated ceramic article having an average density of 0.15 to 0.40 g/cc,NASA
+5538766,Method for retarding oxidation of an organic substrate,NASA
+5545273,Hybrid flexible and rigid ceramic insulation,NASA
+5531093,Means for positioning and repositioning scanning instruments,NASA
+5449211,Grapple fixture for use with electromagnetic attachment mechanism,NASA
+5490075,Global positioning system synchronized active light autonomous docking system,NASA
+5167464,"High-repeatability, robot friendly, ORU interface",NASA
+5143327,Integrated launch and emergency vehicle system,NASA
+5145130,Robot serviced space facility,NASA
+5145227,Electromagnetic attachment mechanism,NASA
+5174772,Work attachment mechanism/work attachment fixture,NASA
+5186567,Quick-connect fasteners for assembling devices in space,NASA
+5190246,Shuttle orbiter with telescoping main propulsion unit and payload,NASA
+5190392,Robot-friendly connector,NASA
+5219318,Spline screw autochanger,NASA
+5217185,Ablative shielding for hypervelocity projectiles,NASA
+5092545,Method of delivering lunar generated fluid to earth orbit using an external tank,NASA
+5086828,Lunar radiator shade,NASA
+5084645,Electrorepulsive actuator,NASA
+5067388,Hypervelocity impact shield,NASA
+5070964,End effector with astronaut foot restraint,NASA
+5071091,Load limiting energy absorbing lightweight debris catcher,NASA
+5112154,Connection space reduction mechanism,NASA
+5129600,"Rotating-unbalanced-mass devices and methods for scanning balloon-borne-experiments, free-flying spacecraft, and space shuttle/space station attached experiments",NASA
+5125601,Payload retention device,NASA
+5127131,Removable hand hold,NASA
+5109345,Closed-loop autonomous docking system,NASA
+5334965,Superconductive material and magnetic field for damping and levitation support and damping of cryogenic instruments,NASA
+5335881,Attachment device,NASA
+5366181,Landing gear energy absorption system,NASA
+5366384,Service equipment for use in hostile environments,NASA
+5369953,Three-grid accelerator system for an ion propulsion engine,NASA
+5312685,Atomic oxygen protective coating with resistance to undercutting at defect sites,NASA
+5326186,Robot friendly probe and socket assembly,NASA
+5261819,Apparatus for simulating an exoatmospheric structure,NASA
+5265829,Tetrahedral lander,NASA
+5265994,Mold bolt and means for achieving close tolerances between bolts and bolt holes,NASA
+5260639,Method for remotely powering a device such as a lunar rover,NASA
+5261482,Cooling apparatus and couplings therefor,NASA
+5290121,System for the installation and replacement of components in hostile environments,NASA
+5277959,Composite flexible blanket insulation,NASA
+5279092,Pressure wall patch,NASA
+5279482,"Fingered bola body, bola with same, and methods of use",NASA
+5241836,Patch for radiative coolers,NASA
+5242134,Space station trash removal system,NASA
+5242339,Apparatus and method for measuring subject work rate on an exercise device,NASA
+5254837,Thermally activated retainer means utilizing shape memory alloy,NASA
+5244406,Spline screw payload fastening system,NASA
+5244508,Self-deploying photovoltaic power system,NASA
+4582277,Magnetic spin reduction system for free spinning objects,NASA
+4582289,Self indexing latch system,NASA
+4579302,Shuttle-launch triangular space station,NASA
+4554905,Space probe/satellite ejection apparatus for spacecraft,NASA
+4593415,Torso sizing ring construction for hard space suit,NASA
+4594734,Shoulder and hip joint for hard space suits,NASA
+4598427,Elbow and knee joint for hard space suits,NASA
+4598428,Shoulder and hip joints for hard space suits and the like,NASA
+4585191,Propulsion apparatus and method using boil-off gas from a cryogenic liquid,NASA
+4587526,Latching mechanism for deployable/re-stowable columns useful in satellite construction,NASA
+4557444,Aerospace vehicle,NASA
+4558967,Joint for deployable structures,NASA
+4536114,Variable length strut with longitudinal compliance and locking capability,NASA
+4518277,Self-locking mechanical center joint,NASA
+4520601,Mechanical fastener,NASA
+4439968,Pre-stressed thermal protection systems,NASA
+4512678,Slide release mechanism,NASA
+4508296,Hemispherical latching apparatus,NASA
+4637447,Sun shield,NASA
+4664344,Apparatus and method of capturing an orbiting spacecraft,NASA
+4677803,Deployable geodesic truss structure,NASA
+4635773,Non-backdriveable free wheeling coupling,NASA
+4604844,Deployable M-braced truss structure,NASA
+4615637,Foldable self-erecting joint,NASA
+4718709,Orbital maneuvering vehicle end effectors,NASA
+4713275,Ceramic/ceramic shell tile thermal protection system and method thereof,NASA
+4723800,Bi-stem gripping apparatus,NASA
+4723734,Space ultra-vacuum facility and method of operation,NASA
+4682745,Preloadable vector sensitive latch,NASA
+4685535,Mobile remote manipulator vehicle system,NASA
+4687048,Monogroove cold plate,NASA
+4703967,Self-locking double retention redundant pull pin release,NASA
+4111851,Electrically conductive thermal control coatings,NASA
+4122991,Apparatus for assembling space structure,NASA
+4124732,Thermal insulation attaching means,NASA
+4151612,Spacesuit mobility knee joints,NASA
+4151800,Thermal insulation protection means,NASA
+4156548,Magnetic suspension and pointing system,NASA
+4162701,Thermal control canister,NASA
+4173324,Coupling device for moving vehicles,NASA
+4219171,Device for coupling a first vehicle to a second vehicle,NASA
+4193570,Active nutation controller,NASA
+4083520,Tetherline system for orbiting satellites,NASA
+4077921,Sprayable low density ablator and application process,NASA
+4088018,Magnetic suspension and pointing system,NASA
+4091464,Spacesuit mobility joints,NASA
+4091465,Spacesuit torso closure,NASA
+4095593,Cooling system for removing metabolic heat from an hermetically sealed spacesuit,NASA
+4018409,Combined docking and grasping device,NASA
+4012018,All sky pointing attitude control system,NASA
+3984072,Attitude control system,NASA
+3948470,System for imposing directional stability on a rocket-propelled vehicle,NASA
+4008348,Particulate and solar radiation stable coating for spacecraft,NASA
+4381583,Beam connector apparatus and assembly,NASA
+4386750,Method of damping nutation motion with minimum spin axis attitude disturbance,NASA
+4391423,Satellite retrieval system,NASA
+4431333,Apparatus for releasably connecting first and second objects in predetermined space relationship,NASA
+4420035,Thermal control system,NASA
+4421700,"Method and technique for installing light-weight, fragile, high-temperature fiber insulation",NASA
+4451017,Three stage rocket vehicle with parallel staging,NASA
+4452412,Space shuttle with rail system and aft thrust structure securing solid rocket boosters to external tank,NASA
+4456208,Shell tile thermal protection system,NASA
+4373003,High temperature silicon carbide impregnated insulating fabrics,NASA
+4358480,Method of repairing surface damage to porous refractory substrates,NASA
+4377266,Electrical rotary joint apparatus for large space structures,NASA
+4259821,Lightweight structural columns,NASA
+4237662,"Structural members, method and apparatus",NASA
+4240601,Method for observing the features characterizing the surface of a land mass,NASA
+4273505,Pneumatic inflatable end effector,NASA
+4265416,Orbiter/launch system,NASA
+4292375,Superplastically formed diffusion bonded metallic structure,NASA
+5016418,Synchronously deployable double fold beam and planar truss structure,NASA
+5005787,Method and apparatus for bio-regenerative life support system,NASA
+5014917,"High-temperature, flexible, thermal barrier seal",NASA
+5020743,Nano-G research laboratory for a spacecraft,NASA
+5020876,Standard remote manipulator system docking target augmentation for automated docking,NASA
+4971474,Quick connect coupling,NASA
+4991799,Orbital debris sweeper and method,NASA
+4998842,Overcenter collet space station truss fastener,NASA
+5001924,Volumetric measurement of tank volume,NASA
+5046395,Two fault tolerant toggle-hook release,NASA
+5026008,Fluid-loop reaction system,NASA
+5038473,Power saw,NASA
+5038693,Composite flexible blanket insulation,NASA
+5031857,Two-stage earth-to-orbit transport with translating oblique wings for booster recovery,NASA
+4984457,Tank gauging apparatus and method,NASA
+4963052,Mechanical end joint system for connecting structural column elements,NASA
+4964300,"Method and apparatus for determining time, direction and composition of impacting space particles",NASA
+4956996,Tank gauging apparatus and method,NASA
+4932807,Clevis joint for deployable space structures,NASA
+4937891,Valve for waste collection and storage,NASA
+4942632,Method for waste collection and storage,NASA
+4921292,Magnetic attachment mechanism,NASA
+4913225,Liquid sheet radiator apparatus,NASA
+4915325,Full body restraint system,NASA
+4903918,Raked circular-cone aerobraking orbital transfer vehicle,NASA
+4896849,Sample levitation and melt in microgravity,NASA
+4898348,Docking system for spacecraft,NASA
+4776541,Fluidic momentum controller,NASA
+4809936,Space module assembly apparatus with docking alignment flexibility and restraint,NASA
+4817895,Aerobraking orbital transfer vehicle,NASA
+4805368,Expandable pallet for space station interface attachments,NASA
+4807834,"Space station architecture, module, berthing hub, shell assembly, berthing mechanism and utility connection channel",NASA
+4770232,Gas particle radiator,NASA
+4771518,"Tapered, tubular polyester fabric",NASA
+4772175,Space station erectable manipulator placement system,NASA
+4763459,Collet lock joint for space station truss,NASA
+4765114,Expandable pallet for space station interface attachments,NASA
+4757767,Mobile remote manipulator system for a tetrahedral truss,NASA
+4728060,"Space station architecture, module, berthing hub, shell assembly, berthing mechanism and utility connection channel",NASA
+4738583,Space spider crane,NASA
+4732353,Three axis attitude control system,NASA
+4830097,Space vehicle thermal rejection system,NASA
+4842223,Hatch cover,NASA
+4848778,Twist seal for high-pressure vessels such as space shuttle rocket motors,NASA
+4836081,Toggle release,NASA
+4887749,Don/Doff support stand for use with rear entry space suits,NASA
+4887780,Orbiter escape pole,NASA
+4890918,Docking alignment system,NASA
+4877689,High temperature insulation barrier composite,NASA
+4865270,Passive zero-gravity leg restraint,NASA
+4870709,Apparatus for waste collection and storage,NASA
+4858857,Docking mechanism for spacecraft,NASA
+4860971,Emergency egress fixed rocket package,NASA
+4860974,Payload deployment method and system,NASA
+4860975,Smart tunnel - docking mechanism,NASA
+6565044,Combination solar sail and electrodynamic tether propulsion system,NASA
+6702300,High temperature seal for large structural movements,NASA
+6726153,"Photon momentum transfer plane for asteroid, meteoroid, and comet orbit shaping",NASA
+6538796,MEMS device for spacecraft thermal control applications,NASA
+7118074,Electrodynamic tether,NASA
+7290737,Nonsurvivable momentum exchange system,NASA
+7293743,"Method and associated apparatus for capturing, servicing, and de-orbiting earth satellites using robotics",NASA
+7295884,System and method of designing a load bearing layer of an inflatable vessel,NASA
+7240879,"Method and associated apparatus for capturing, servicing and de-orbiting earth satellites using robotics",NASA
+6739555,"Reusable module for the storage, transportation, and supply of multiple propellants in a space environment",NASA
+6775600,Systems and methods for determining a spacecraft orientation,NASA
+6892989,Method for reducing the drag of blunt-based vehicles by adaptively increasing forebody roughness,NASA
+6939610,Thermal insulating coating for spacecrafts,NASA
+6354540,"Androgynous, reconfigurable closed loop feedback controlled low impact docking system with load sensing electromagnetic capture ring",NASA
+6367243,Atomic-based combined cycle propulsion system and method,NASA
+6312398,Actuator for flexing a resilient covering,NASA
+6227495,Synchronized autonomous docking system,NASA
+6231010,Advanced structural and inflatable hybrid spacecraft module,NASA
+6254035,Synchronized docking system,NASA
+6170404,Pressure-driven magnetically-coupled conveyance,NASA
+5946931,Evaporative cooling membrane device,NASA
+5934068,Method and apparatus for pressure pulse arcjet starting,NASA
+5893533,Combination space station handrail clamp and pointing device,NASA
+5903462,"Computer implemented method, and apparatus for controlling a hand-held tool",NASA
+5814397,Method for waterproofing ceramic materials,NASA
+5803406,Integrated thermal insulation system for spacecraft,NASA
+5772154,Leading edge heat shield for wings of spacecraft,NASA
+6091345,Synchronized target subsystem for automated docking systems,NASA
+6061611,Closed-form integrator for the quaternion (euler angle) kinematics equations,NASA
+4725766,Multiple spoke energy storage system for space environment,The Boeing Company
+4648227,Low shock explosive joint systems,The Boeing Company
+4504031,Aerodynamic braking and recovery method for a space vehicle,The Boeing Company
+4518137,Aerodynamic braking system for a space vehicle,The Boeing Company
+4282394,Underwing reflector solar array,The Boeing Company
+4802639,Horizontal-takeoff transatmospheric launch system,The Boeing Company
+4735382,Space craft cellular energy generating and storage device,The Boeing Company
+4880050,Thermal management system,The Boeing Company
+4832755,Glass encapsulation of solar cell arrays to minimize voltage/plasma interaction effects in a space environment,The Boeing Company
+5021099,Solar cell interconnection and packaging using tape carrier,The Boeing Company
+5022393,Apparatus for warning a pilot of life-support system failures,The Boeing Company
+4900078,Gripping device utilizing a shape memory alloy,The Boeing Company
+5454074,Electronic checklist system,The Boeing Company
+5245993,Pilot's ensemble with integrated threat protection,The Boeing Company
+5322725,Thermal protection system,The Boeing Company
+6159271,Method and system for orienting diamagnetic liquid with respect to a gas in a low gravity environment,The Boeing Company
+6220287,Baffle for suppressing slosh in a tank and a tank for incorporating same,The Boeing Company
+6182927,Medium earth orbit augmentation of a global positioning system for global navigation,The Boeing Company
+6310336,Architecture for processing wide field-of view sun sensor signals for satellite applications,The Boeing Company
+6311476,Integral propulsion and power radiant cavity receiver,The Boeing Company
+6298289,Integrated spacecraft control system and method,The Boeing Company
+6311931,Bi-directional momentum bias spacecraft attitude control,The Boeing Company
+6313396,Lightweight solar module and method of fabrication,The Boeing Company
+6296206,"Cantilever, bi-level platform satellite dispenser",The Boeing Company
+6299106,Thermal insulation utilizing a low profile snap fastener,The Boeing Company
+6293499,"Modular, producible, testable and serviceable spacecraft design",The Boeing Company
+6282467,Three-axis inertial attitude determination for spinning spacecraft,The Boeing Company
+6266030,Flexible self-actuated structure and associated method,The Boeing Company
+6374618,Cryogenic fluid supply from supercritical storage system,The Boeing Company
+6357698,Twin lobe spacecraft dispenser apparatus and method,The Boeing Company
+6357699,Device for controlled release of tension,The Boeing Company
+6351939,"Swirling, impinging sheet injector",The Boeing Company
+5928437,Microarray for efficient energy generation for satellites,The Boeing Company
+5928752,Quick installation-removal thermal insulation blanket for space craft,The Boeing Company
+5848767,One piece spacecraft frame,The Boeing Company
+6007026,Quick installation-removal thermal insulation blanket for space craft,The Boeing Company
+6027072,Payload chamber cooling system,The Boeing Company
+6042057,Aerodynamically actuated magnetic ascent vent cover,The Boeing Company
+6456371,Attitude determination with earth horizon-crossing indicators and relative-attitude propagation,The Boeing Company
+6460809,Spacecraft methods and systems for autonomous correction of star tracker charge-transfer-efficiency errors,The Boeing Company
+6476314,Solar tile and associated method for fabricating the same,The Boeing Company
+6478259,"Spacecraft protected by a coating including pyroelectric/ferroelectric particles, and the coating material",The Boeing Company
+6470270,Lost-in-space stellar attitude acquisition using multiple star trackers,The Boeing Company
+6435457,"Thruster systems for spacecraft station changing, station keeping and momentum dumping",The Boeing Company
+6421998,Thruster device responsive to solar radiation,The Boeing Company
+6416018,Satellite dispenser,The Boeing Company
+6450455,Method and sensor for capturing rate and position and stabilization of a satellite using at least one focal plane,The Boeing Company
+6508438,Spacecraft orbit control using orbit position feedback,The Boeing Company
+6511020,Method for limiting interference between satellite communications systems,The Boeing Company
+6512979,Lost-in-space stellar attitude acquisition using multiple star trackers,The Boeing Company
+6505794,Large thermal protection system panel,The Boeing Company
+6488237,Propellant cross-feed system and method,The Boeing Company
+6550721,Safing mode for high momentum states in body stabilized spacecraft,The Boeing Company
+6726152,Satellite communications system,The Boeing Company
+6718762,Contingency hydraulic power unit,The Boeing Company
+6712542,Apparatus and method for altering the tension of a clampband,The Boeing Company
+6708928,Variable spacer for a separation system of a launch vehicle,The Boeing Company
+6712318,Impact resistant surface insulation tile for a space vehicle and associated protection method,The Boeing Company
+6695261,Shock isolation system for spacecraft fairing,The Boeing Company
+6695262,Spacecraft methods and structures for enhanced service-attitude accuracy,The Boeing Company
+6666409,"Crewed on-orbit, returnable, and reusable space vehicle",The Boeing Company
+6659396,Arch wing and forward steering for an advanced air vehicle,The Boeing Company
+6634603,Magnetic dipole tractor beam control system,The Boeing Company
+6684569,Self-closing access door,The Boeing Company
+6681159,Spacecraft methods and structures with enhanced attitude control that facilitates gyroscope substitutions,The Boeing Company
+6676077,High temperature resistant airfoil apparatus for a hypersonic space vehicle,The Boeing Company
+6676087,Spacecraft methods and structures with beacon-receiving field-of-view matched to beacon station window,The Boeing Company
+6566640,System and method for autonomous correction of star tracker high spatial frequency (HSF) error,The Boeing Company
+6568639,Autonomous orbit transfer vehicle,The Boeing Company
+6571156,Spacecraft power acquisition procedure and method for wing-deployed configuration,The Boeing Company
+6571624,Low gravity liquid level sensor rake,The Boeing Company
+6561462,Spacecraft power/sun aquistion algorithm using slit sun sensors,The Boeing Company
+6565043,Redundant system for satellite inclination control with electric thrusters,The Boeing Company
+6557803,"Crewed on-orbit, returnable, and reusable space vehicle",The Boeing Company
+6557804,Rotating solar concentrator,The Boeing Company
+6594984,Combined thrust and power generator for a satellite,The Boeing Company
+6595469,Attitude control methods and systems for multiple-payload spacecraft,The Boeing Company
+6595470,Deployable radiator with flexible line loop,The Boeing Company
+6588708,Spacecraft methods and structures for acquiring and determining power-safe attitudes,The Boeing Company
+6581883,Extendable/retractable bi-fold solar array,The Boeing Company
+6591867,Variable-gravity anti-vortex and vapor-ingestion-suppression device,The Boeing Company
+6607167,Spacecraft thermal shock suppression system,The Boeing Company
+6609681,Method and apparatus for damping vibration,The Boeing Company
+6599655,Procedure for performing battery reconditioning on a space vehicle designed with one battery,The Boeing Company
+6615117,Attitude determination system and method with outer-loop gyro scale-factor non-linearity calibration,The Boeing Company
+6776372,Method of operating a satellite for end-of-life maneuvers,The Boeing Company
+6766227,Attitude-acquisition methods and systems for controlled spacecraft attitude,The Boeing Company
+6762716,Digital beacon asymmetry and quantization compensation,The Boeing Company
+6742325,Method of generating thrust and electrical power from an optical solar image,The Boeing Company
+6823679,Anti-icing fluid injection nozzle,The Boeing Company
+6845949,System and methods for integrating a payload with a launch vehicle,The Boeing Company
+6840275,Variable-gravity anti-vortex and vapor-ingestion-suppression device,The Boeing Company
+6844057,Method for secondarily bonding a ceramic matrix composite layer to a flexible insulation blanket and an insulation blanket produced thereby,The Boeing Company
+6844703,Battery cell balancing system,The Boeing Company
+6793183,Integral node tubular spaceframe,The Boeing Company
+6786669,Positive lock quick release pin,The Boeing Company
+6932302,Reusable launch system,The Boeing Company
+6914022,Reusable surface insulation containing polybenzazole,The Boeing Company
+6917861,Method and apparatus for stepping space craft mechanisms at low disturbance rates,The Boeing Company
+6910660,Laser guidance system,The Boeing Company
+6921048,Method and apparatus for minimizing solar array sun tracking disturbance by north and south solar array wing cancellation,The Boeing Company
+6921049,System for counteracting a disturbance in a spacecraft,The Boeing Company
+6938679,Heat transport apparatus,The Boeing Company
+6964396,Automatic accel voltage tracking system for an ion thruster,The Boeing Company
+6892986,Satellite constellations using nodally-adjusted repeating ground track orbits,The Boeing Company
+6905097,Launch vehicle payload carrier and related methods,The Boeing Company
+6906253,Method for fabricating a solar tile,The Boeing Company
+6852271,Flexible insulation blanket having secondarily bonded ceramic matrix composite layer,The Boeing Company
+6860451,Spacecraft spin axis reorientation method,The Boeing Company
+6863244,Mitigation of angular acceleration effects on optical sensor data,The Boeing Company
+6866231,Method for limiting interference between satellite communications systems,The Boeing Company
+6867391,Control system for electrostatic discharge mitigation,The Boeing Company
+7258306,Thermal deformation determination for payload pointing using space-based beacon,The Boeing Company
+7260456,Pixel-frequency slews and filters for star data measurements,The Boeing Company
+7261038,Low shock separation joint and method therefor,The Boeing Company
+7232093,Cooled insulation surface temperature control system,The Boeing Company
+7221316,Control segment-based lever-arm correction via curve fitting for high accuracy navigation,The Boeing Company
+7246777,"Method, apparatus, and computer program product for safe exit maneuver from dimensionally extended rotating space vehicle",The Boeing Company
+7275720,Actively cooled ceramic thermal protection system,The Boeing Company
+7149610,Momentum estimator for on-station momentum control,The Boeing Company
+7228231,Multiple stayout zones for ground-based bright object exclusion,The Boeing Company
+7229048,Aerodynamic control of a hypersonic entry vehicle,The Boeing Company
+7219014,Method and apparatus for real-time star exclusion from a database,The Boeing Company
+7142981,"Laser range finder closed-loop pointing technology of relative navigation, attitude determination, pointing and tracking for spacecraft rendezvous",The Boeing Company
+7134630,Thermal deformation determination for payload pointing using space-based beacon,The Boeing Company
+7136752,Method and apparatus for on-board autonomous pair catalog generation,The Boeing Company
+7114684,"Method, apparatus, and computer program product for safe exit maneuver from dimensionally extended rotating space vehicle",The Boeing Company
+7124001,Relative attitude estimator for multi-payload attitude determination,The Boeing Company
+7127994,Low shock separation joint,The Boeing Company
+7128532,Transpiration cooling system,The Boeing Company
+7059571,Deployable spacecraft mount for electric propulsion,The Boeing Company
+7062363,Refinement of spacecraft angular velocity and attitude estimates using star data,The Boeing Company
+7093800,Method of operating a satellite for end-of-life maneuvers,The Boeing Company
+7082019,Method and apparatus to protect solar cells from electrostatic discharge damage,The Boeing Company
+7093805,System and methods for integrating a payload with a launch vehicle,The Boeing Company
+7097127,Mass trim mechanism,The Boeing Company
+7025307,Method and apparatus for solar tacking momentum maintenance in long-duration deployment of a large reflector,The Boeing Company
+7014915,"Controlled binary macrosegregated powder particles, their uses, and preparation methods therefor",The Boeing Company
+7055781,Cooled insulation surface temperature control system,The Boeing Company
+7059090,Fairing access door with reinforcement and method of manufacture,The Boeing Company
+6969546,Thermal insulation system employing oxide ceramic matrix composites,The Boeing Company
+6978966,Reflector deployment error estimation,The Boeing Company
+6980893,Phase recovery filtering techniques for SCP throughput shortage,The Boeing Company
+6983914,Deployable solar array assembly,The Boeing Company
+6990396,Method and apparatus for reaction wheel dynamic compensation in long-duration deployment of a large reflector,The Boeing Company
+7003941,Thruster device responsive to solar radiation and associated methods,The Boeing Company
+7007896,Shock and vibration isolation system,The Boeing Company
+9346564,System and method for manually safing and deorbiting a geostationary spacecraft in an absence of a spacecraft processor,The Boeing Company
+9334069,Propellant gauging at microgravity within the pressure—temperature—density inflection zone of xenon,The Boeing Company
+9297326,Health-adaptive reaction control system,The Boeing Company
+9309010,Methods and apparatus for controlling a plurality of satellites using node-synchronous eccentricity control,The Boeing Company
+9376221,Methods and apparatus to point a payload at a target,The Boeing Company
+9403605,Multiple stage tractor propulsion vehicle,The Boeing Company
+9403606,Spacecraft radiator panels,The Boeing Company
+9423255,System and method for mitigating an occurrence of a dry spot in a field of view of a star tracker,The Boeing Company
+9394065,Multiple space vehicle launch system,The Boeing Company
+9395048,Thermally protected liquid acquisition device for cryogenic fluids,The Boeing Company
+9382013,Variably extending heat transfer devices,The Boeing Company
+9396828,Carbon nanotube coated structure and associated method of fabrication,The Boeing Company
+9428285,System and method for managing momentum accumulation,The Boeing Company
+9446864,NANOSAT electrothermal deployment system,The Boeing Company
+9453293,Method of making a composite tank having joint with softening strip,The Boeing Company
+9457918,Multi-stage space launch systems with reusable thrust augmentation and associated methods,The Boeing Company
+9458356,High efficiency erosion resistant silicone ablator composition,The Boeing Company
+9551994,System and method for vehicle attitude control,The Boeing Company
+9546892,Methods and systems for estimation of propellant transfer in an ion propulsion system,The Boeing Company
+9567109,Space structure deployment system,The Boeing Company
+9590159,Thermoelectric power generation from power feeder,The Boeing Company
+9571194,Near-field connectivity for hosted payloads,The Boeing Company
+9567113,Thermal seal with thermally induced shape change,The Boeing Company
+9567114,Combined pressure and thermal window system for space vehicles,The Boeing Company
+9487311,Apparatus and methods to provide a surface having a tunable emissivity,The Boeing Company
+9493228,High heat transfer rate reusable thermal protection system,The Boeing Company
+9469420,Shaft assembly for rotary switch,The Boeing Company
+9475261,Dual layer sandwich for thermal management,The Boeing Company
+9475593,Dual layer sandwich for thermal management,The Boeing Company
+9522746,Attitude slew methodology for space vehicles using gimbaled low-thrust propulsion subsystem,The Boeing Company
+9527609,Vehicle ablator system,The Boeing Company
+9684318,Lightweight combined ductwork/plenums for space applications,The Boeing Company
+9732776,Marman clamp with a shape memory alloy actuator,The Boeing Company
+9720042,Built-in test for satellite digital payload verification,The Boeing Company
+9676498,Multi-stage space launch systems with reusable thrust augmentation and associated methods,The Boeing Company
+9650996,Valve controller for pressure stabilization,The Boeing Company
+9643739,Methods and apparatus for performing propulsion operations using electric propulsion systems,The Boeing Company
+9643740,Gyroless three-axis sun acquisition using sun sensor and unscented kalman filter,The Boeing Company
+9637247,Component deployment system,The Boeing Company
+9637248,Component deployment system,The Boeing Company
+9764859,Efficient stationkeeping design for mixed fuel systems,The Boeing Company
+9770864,Methods of internally insulating a fluted core sandwich structure,The Boeing Company
+9796488,Dual port payload attach ring compatible satellite,The Boeing Company
+9809329,Systems for interconnecting dual manifested spacecraft,The Boeing Company
+9783324,Vessel insulation assembly,The Boeing Company
+9758262,Vented launch vehicle adaptor for a manned spacecraft with “pusher” launch abort system,The Boeing Company
+9776743,Expandable gravity chamber for a habitation module that is housed in an inflatable shell,The Boeing Company
+9834324,"Thrust apparatuses, systems, and methods",The Boeing Company
+9815575,On-orbit reconfigurable solar array,The Boeing Company
+9878808,Spacecraft and spacecraft radiator panels with composite face-sheets,The Boeing Company
+9878809,Stand-off panel thermal protection system and method of fabricating the same,The Boeing Company
+9878810,Self-contained stud adhesive bonding apparatus and method of use,The Boeing Company
+9880042,Propellant gauging tool for predicting propellant mass in a propellant storage volume,The Boeing Company
+9038364,Thruster grid clear circuits and methods to clear thruster grids,The Boeing Company
+9045242,Mechanically fastened large pressurized vehicle structure,The Boeing Company
+9067694,Position-based gyroless control of spacecraft attitude,The Boeing Company
+9067695,Solar array transfer orbit power maximizer,The Boeing Company
+9068562,Laser-powered propulsion system,The Boeing Company
+9072184,Carbon fiber spacecraft panel with integral metallic foil power return,The Boeing Company
+9086060,Telemetry for testing switch configuration in ion propulsion system,The Boeing Company
+9090360,Cryogenically cooled radiation shield device and associated method,The Boeing Company
+9073648,Star tracker rate estimation with kalman filter enhancement,The Boeing Company
+9180984,Methods and apparatus for performing propulsion operations using electric propulsion systems,The Boeing Company
+9181934,Rotary switch assembly for ion propulsion system,The Boeing Company
+9115662,Health-adaptive reaction control system,The Boeing Company
+9114891,"Multi-purpose electrical coil as a magnetic flux generator, heater or degauss coil",The Boeing Company
+9114892,Multiple stage tractor propulsion vehicle,The Boeing Company
+9132908,Expandable nose cone,The Boeing Company
+9132926,Systems and methods for providing insulation,The Boeing Company
+9260205,Antivortex device for multi-outlet liquid reservoir,The Boeing Company
+9248923,Ceramic composite thermal protection system,The Boeing Company
+9244023,Systems and methods for radiation monitoring,The Boeing Company
+9302793,Spacecraft docking system,The Boeing Company
+9296493,Spacecraft with open sides,The Boeing Company
+9283711,Hybrid ablative thermal protection systems and associated methods,The Boeing Company
+9284068,Fast-low energy transfer to Earth-Moon Lagrange point L2,The Boeing Company
+9196877,Battery cell isolation system,The Boeing Company
+9221533,Removable window system for space vehicles,The Boeing Company
+9211960,"System and method for attaching thermal protection, insulation and secondary structures to sandwich structures",The Boeing Company
+9205625,Spiral laminated structural cone and manufacturing method,The Boeing Company
+9238513,Spacecraft radiator panels,The Boeing Company
+8973873,Spacecraft propellant tank mount,The Boeing Company
+8974135,Fabric preform insert for a composite tank Y-joint,The Boeing Company
+8955791,First and second stage aircraft coupled in tandem,The Boeing Company
+8998131,Differential throttling control enhancement,The Boeing Company
+8977391,Spacecraft development testbed system,The Boeing Company
+9016629,Combined pressure and thermal window system for space vehicles,The Boeing Company
+9027889,Modular core structure for dual-manifest spacecraft launch,The Boeing Company
+9028947,Heat shield having strain compliant matrix and method of forming same,The Boeing Company
+8991765,Satellite predictive avoidance system,The Boeing Company
+8899012,Methods and systems for flux distribution within a heat exchanger,The Boeing Company
+8915472,Multiple space vehicle launch system,The Boeing Company
+8930048,Enhanced compound steering law for general low thrust mission,The Boeing Company
+8916282,Battery cell isolation system,The Boeing Company
+8939407,Common bulkhead for composite propellant tanks,The Boeing Company
+8950709,Handle for dual mode airborne vehicle landing,The Boeing Company
+8944377,Lavatory reconfiguration system,The Boeing Company
+8752350,Ceramic composite thermal protection system,The Boeing Company
+8714491,Thermal protection system with staggered joints,The Boeing Company
+8864073,Aeroshell thermal protection system and method,The Boeing Company
+8876061,Methods and systems for beam powered propulsion,The Boeing Company
+8872018,"Atomic oxygen and electrostatic-resistant, flexible structure for space applications",The Boeing Company
+8872084,Three-dimensional sun vector determination utilizing low-cost solar cells,The Boeing Company
+8800933,Space debris removal,The Boeing Company
+8800934,Space access system with reusable booster,The Boeing Company
+8807485,Systems for interconnecting dual manifested spacecraft,The Boeing Company
+8809824,Cryogenically cooled radiation shield device and associated method,The Boeing Company
+8812179,Ammonia detection,The Boeing Company
+8816187,Stowing or deploying a solar array,The Boeing Company
+8844877,"Stay sharp, fail safe leading edge configuration for hypersonic and space access vehicles",The Boeing Company
+8550408,Dual evolved expendable launch vehicle (EELV) secondary payload adaptor (ESPA) port small satellite design,The Boeing Company
+8511617,Satellites and satellite fleet implementation methods and apparatus,The Boeing Company
+8370124,High fidelity time domain for spacecraft emulation systems,The Boeing Company
+8380370,Spacecraft acquisition maneuvers using position-based gyroless control,The Boeing Company
+8403270,Canted solar array and method for using same,The Boeing Company
+8424203,Heat pipe apparatus and method,The Boeing Company
+8439312,System and methods for simultaneous momentum dumping and orbit control,The Boeing Company
+8439530,Method and apparatus for simulating solar light,The Boeing Company
+8457810,Compound steering law for efficient low thrust transfer orbit trajectory,The Boeing Company
+8458976,Thermal protection blanket assembly,The Boeing Company
+8706319,Space positioning system,The Boeing Company
+8720181,Rocket engine ignition flame reduction system,The Boeing Company
+8720828,Extended plug cold plate,The Boeing Company
+8679582,Tunable variable emissivity materials and methods for controlling the temperature of spacecraft using tunable variable emissivity materials,The Boeing Company
+8656571,Strong bonded joints for cryogenic applications,The Boeing Company
+8661644,Method and device for forming joints in composite structures,The Boeing Company
+8568054,Attachment system for thermal protection system,The Boeing Company
+8584988,Mechanically fastened large pressurized spacecraft structure,The Boeing Company
+8573354,Noise suppression system for hollow vehicle fasteners,The Boeing Company
+8575580,Radiation shield device and associated method,The Boeing Company
+8616502,Deployable solar panel assembly for spacecraft,The Boeing Company
+8620496,Systems and method of controlling a spacecraft using attitude sensors,The Boeing Company
+8620603,Fluid level sensing,The Boeing Company
+8626478,Cross flow parameter calculation for aerodynamic analysis,The Boeing Company
+8632036,Integrated articulating thermal isolation system and method,The Boeing Company
+8640994,Agile dedicated spacecraft for spinning microwave imagers and sounders,The Boeing Company
+8047550,Tile gap seal assembly and method,The Boeing Company
+8052092,Method and apparatus for satellite orbital change using space debris,The Boeing Company
+8041118,Pattern recognition filters for digital images,The Boeing Company
+8038910,"Low solar absorptance, high emissivity, inorganic electrostatic dissipative thermal control coating",The Boeing Company
+8006938,"Spacecraft servicing vehicle with adaptors, tools and attachment mechanisms",The Boeing Company
+8029702,"Low solar absorptance, high emissivity, inorganic electrostatic dissipative thermal control coating",The Boeing Company
+8056863,Unified attitude control for spacecraft transfer orbit operations,The Boeing Company
+8091835,Exchangeable propellant cartridge system,The Boeing Company
+8099186,Satellite navigation using long-term navigation information and autonomous orbit control,The Boeing Company
+8123174,Methods and apparatus for an integrated instrumentation module for a thermal protection system,The Boeing Company
+8127758,Solar-thermal fluid heating for aerospace platforms,The Boeing Company
+8131409,Gyroless transfer orbit sun acquisition using only wing current measurement feedback,The Boeing Company
+8159366,Measurement of current and voltage of an in-orbit solar array,The Boeing Company
+8152107,Applying sealant to narrow deep gaps in an ablative heat shield surface,The Boeing Company
+8152108,Solar array peak power extraction,The Boeing Company
+8281566,Thermally-integrated fluid storage and pressurization system,The Boeing Company
+8282043,Simultaneous momentum dumping and orbit control,The Boeing Company
+8265804,Method and system for controlling a vehicle,The Boeing Company
+8291594,Attachment system and method for thermal protection system,The Boeing Company
+8350199,Apparatus to reduce thrust oscillations in a launch vehicle,The Boeing Company
+8321076,On-line inertia estimation for use in controlling an aerospace vehicle,The Boeing Company
+8359154,Systems and method for determining propellant mass and center of gravity for a space-based asset,The Boeing Company
+8366052,Detachable inflation system for air vehicles,The Boeing Company
+8366053,System and method for deploying payloads with a launch vehicle,The Boeing Company
+8352101,Algorithm for simultaneous attitude maneuver and momentum dumping,The Boeing Company
+8191616,Combined thermal protection and surface temperature control system,The Boeing Company
+8186626,GPS based orbit determination of a spacecraft in the presence of thruster maneuvers,The Boeing Company
+8205839,Methods and apparatus for node-synchronous eccentricity control,The Boeing Company
+8210481,Spacecraft having a magnetic space radiation shield,The Boeing Company
+8209065,Steering logic for spacecraft slew maneuvers,The Boeing Company
+8245979,Centralized bus interface with single wire secondary distribution,The Boeing Company
+7777367,Sequential shunt solar array controller,The Boeing Company
+7779703,System and method for aligning a device relative to a reference point of a vehicle,The Boeing Company
+7823836,Optimal sun safe attitude for satellite ground tracking,The Boeing Company
+7823837,"Two part spacecraft servicing vehicle system with adaptors, tools, and attachment mechanisms",The Boeing Company
+7687025,Isotopic lightening,The Boeing Company
+7691284,Tunable variable emissivity materials and methods for controlling the temperature of spacecraft using tunable variable emissivity materials,The Boeing Company
+7673833,Protective shield assembly for space optics and associated methods,The Boeing Company
+7681841,Method and system for spacecraft power acquisition using single-axis slit sun sensor,The Boeing Company
+7712706,Space tethers for limiting the dynamic response of structures,The Boeing Company
+8019544,Real-time refinement method of spacecraft star tracker alignment estimates,The Boeing Company
+8016240,Satellites and satellite fleet implementation methods and apparatus,The Boeing Company
+7943227,Ceramic heat shield,The Boeing Company
+7946534,Pressure vessel having continuous sidewall,The Boeing Company
+7974746,Singularity escape and avoidance using a virtual array rotation,The Boeing Company
+7878456,Protective shield assembly for space optics and associated methods,The Boeing Company
+7887333,Conformal slip ring system,The Boeing Company
+7877173,Method and apparatus for determining a satellite attitude using crosslink reference signals,The Boeing Company
+7837153,Local observable area and self inspection system,The Boeing Company
+7860684,Methods and systems for advanced spaceport information management,The Boeing Company
+7861975,Two part spacecraft servicing vehicle system with universal docking adaptor,The Boeing Company
+7927686,Composite heat shield,The Boeing Company
+7931237,Universal launch vehicle payload adapter,The Boeing Company
+7922124,Power optimized system for electric propulsion stationkeeping geosynchronous spacecraft,The Boeing Company
+7918420,System and methods for simultaneous momentum dumping and orbit control,The Boeing Company
+7913813,Noise shield for a launch vehicle,The Boeing Company
+7900434,Thermally-integrated fluid storage and pressurization system,The Boeing Company
+7900547,System and method for preparing a launch device,The Boeing Company
+7904214,Singularity escape and avoidance using a virtual array rotation,The Boeing Company
+7410130,Star-tracker-based attitude determination for spinning spacecraft,The Boeing Company
+7434767,"Spacecraft adapter having embedded resources, and methods of forming same",The Boeing Company
+7437224,Target acquisition control for spacecraft gimballed payload,The Boeing Company
+7413148,Remotely located cryocooler,The Boeing Company
+7401752,Protective shield assembly for space optics and associated methods,The Boeing Company
+7478782,System and method incorporating adaptive and reconfigurable cells,The Boeing Company
+7465500,Lightweight protector against micrometeoroids and orbital debris (MMOD) impact using foam substances,The Boeing Company
+7464900,Folding retractable protective dome for space vehicle equipment,The Boeing Company
+7464901,Method and device for magnetic space radiation shield,The Boeing Company
+7395656,Dual mode hybrid electric thruster,The Boeing Company
+7367738,Apparatus and method for releaseably joining elements,The Boeing Company
+7281688,Materials for self-transpiring hot skins for hypersonic vehicles or reusable space vehicles,The Boeing Company
+7296769,Cryogenic fuel tank insulation assembly,The Boeing Company
+7297218,Method of fabricating reusable surface insulation containing polybenzazole,The Boeing Company
+7302317,System and method to enhance attitude estimation for transfer orbit maneuver,The Boeing Company
+7302364,Methods and systems for advanced spaceport information management,The Boeing Company
+7310578,"Fast access, low memory, pair catalog",The Boeing Company
+7334844,Composite shell spacecraft seat,The Boeing Company
+7343228,Transient cancellation technique for spacecraft solar wing stepping,The Boeing Company
+7546983,Spacecraft power acquisition method for wing-stowed configuration,The Boeing Company
+7583506,Multi operational system apparatus and method,The Boeing Company
+7487016,Method for compensating star motion induced error in a stellar inertial attitude determination system,The Boeing Company
+7484693,Centralized bus interface with single wire secondary distribution,The Boeing Company
+7447170,Digital beacon asymmetry and quantization compensation,The Boeing Company
+7484691,Method and device for magnetic space radiation shield providing isotropic protection,The Boeing Company
+7664578,Optimizing initial inclinations and RAANs of a satellite constellation,The Boeing Company
+7665695,Unified attitude control for spacecraft transfer orbit operations,The Boeing Company
+7668629,Ultra-tightly coupled global navigation satellite system space borne receiver system,The Boeing Company
+7640840,Automated launch mating system,The Boeing Company
+7627404,Singularity escape and avoidance using a virtual array rotation,The Boeing Company
+7644891,Spacecraft low tumble linear release system,The Boeing Company
+7650268,Simulating ion impingement,The Boeing Company
+7607616,Docking device,The Boeing Company
+7575200,Space depot for spacecraft resupply,The Boeing Company
+7578481,Digital programmable driver for solenoid valves and associated method,The Boeing Company
+7610840,Non-frangible coupling element with explosive load release,The Boeing Company
+7611095,Aerodynamic re-entry vehicle control with active and passive yaw flaps,The Boeing Company
+9908640,Inclined super-GEO orbit for improved space-surveillance,The Boeing Company
+9932131,Polysynchronous constellation design,The Boeing Company
+9914551,Passive timing of asynchronous IMU attitude data,The Boeing Company
+9915958,Lightweight plenum system for spacecraft application,The Boeing Company
+9908644,Gravity chamber that rotates on support bearings mounted on an inner surface of a hull of a habitation module,The Boeing Company
+9887401,"Battery assembly, battery containment apparatus, and related methods of manufacture",The Boeing Company
+9939260,Satellite transfer orbit search methods,The Boeing Company
+9957068,Multiple space vehicle launch system,The Boeing Company
+9963248,Spin stabilization of a spacecraft for an orbit maneuver,The Boeing Company
+9963249,Efficient stationkeeping design for mixed fuel systems in response to a failure of an electric thruster,The Boeing Company
+9951232,IR absorbing coatings comprising fluorinated nanoparticles,The Boeing Company
+9986660,Conduction cooled autonomous gimbaled inertial measurement unit,The Boeing Company
+9970389,Antivortex device and method of assembling thereof,The Boeing Company
+6231710,Method of making composite chambercore sandwich-type structure with inherent acoustic attenuation,Navy
+6220548,Deployed equipment modules for satellite architecture improvement,Navy
+6237795,Modular transport container for satellites,Navy
+6194790,Solar sail for power generation,Navy
+6135390,Whole-spacecraft hybrid isolation system for launch vehicles,Navy
+6260802,Pneumatic airborne ejection system for aerospace vehicles,Navy
+6269629,Micro-pulsed plasma thruster having coaxial cable segment propellant modules,Navy
+6275751,Smart docking surface for space serviceable nano and micro satellites,Navy
+6263665,"Microthruster for heating a propellant, driving the vapors produced to a discharge section",Navy
+6290505,Ballistic performance simulator,Navy
+6315248,Method for satellite injection using a solid fuel rocket motor,Navy
+6398165,Protective enclosure with peripheral fluid storage facility,Navy
+5885367,Retractable thin film solar concentrator for spacecraft,Navy
+5919316,Spacecraft solar array design to control differential charging,Navy
+6109564,"Electromagnetic, sliding space environment protection satellite door",Navy
+6085128,Orbit/covariance estimation and analysis (OCEAN) determination for satellites,Navy
+6047541,HAN TEAN (xm-46) mixing gas generator propellant tank pressurizer for launch vehicles and spacecraft,Navy
+6051775,Device for tensioning sheet members,Navy
+7296396,Method for using variable supersonic Mach number air heater utilizing supersonic combustion,Navy
+7234663,Bubble cloud acoustic damping for launch vehicle fairing,Navy
+6948306,Apparatus and method of using supersonic combustion heater for hypersonic materials and propulsion testing,Navy
+6920722,Elongated truss boom structures for space applications,Navy
+6904722,Elongated truss boom structures for space applications,Navy
+6873886,Modular mission payload control software,Navy
+6775383,Adaptive vibro-acoustic attentuator for launch vehicles,Navy
+6701705,Gas-walled rocket nozzle,Navy
+6463672,Mitigation of spacecraft charging by means of ionized water vapor,Navy
+6459232,Spacecraft power system,Navy
+6488233,Laser propelled vehicle,Navy
+6500275,Mitigation of spacecraft charging by means of polar molecules,Navy
+5669584,Space vehicle apparatus including a cellular sandwich with phase change material,Navy
+5771967,Wick-interrupt temperature controlling heat pipe,Navy
+5664742,Plume avoidance maneuvers,Navy
+5540996,"Rigidized, low density, insulation",Navy
+5541010,Optical solar reflector,Navy
+5467814,Graphite/epoxy heat sink/mounting for common pressure vessel,Navy
+5476239,Gyro platform assembly with a spinning vehicle,Navy
+5512743,Space-based asteroid detection and monitoring system,Navy
+5405108,Space debris clearing device,Navy
+5431010,"High speed, amplitude variable thrust control method",Navy
+5204818,Surveying satellite apparatus,Navy
+5115998,Annular balloon,Navy
+5117758,Booster rocket range safety system,Navy
+5271226,"High speed, amplitude variable thrust control",Navy
+5257802,Zero-residual-energy minimum-time slew of a flexible space structure with damping,Navy
+5257757,Advanced hypersonic nosecap,Navy
+5312693,Nonsacrificial laser hardening,Navy
+5323682,Method for protecting a space vehicle and resultant vehicle,Navy
+5356187,Recovery and deployment device,Navy
+5337288,Acoustic and vibration attenuation composite material,Navy
+4609169,Propellant tank resupply system,Navy
+4697767,Spacecraft subsystem support structure,Navy
+4727932,Expandable pulse power spacecraft radiator,Navy
+4706740,Ventable survivable heat pipe vapor chamber spacecraft radiator,Navy
+4706912,Structural external insulation for hypersonic missiles,Navy
+4702439,Support for thermally expanding conical heatshield,Navy
+4572488,Low temperature rate controller,Navy
+4581285,High thermal capacitance multilayer thermal insulation,Navy
+4515847,Erosion-resistant nosetip construction,Navy
+4373690,Deployable support structure for spacecrafts,Navy
+4465253,Flexible line support assembly,Navy
+4392624,Implanted boundary layer trip,Navy
+4397434,Survivable satellite bus structural frame,Navy
+4016322,Ablative protective material for reentry bodies,Navy
+4010921,Spacecraft closed loop three-axis momentum unloading system,Navy
+3981467,Launch lock device,Navy
+4161780,Spin rate timing system,Navy
+4166597,Stowable and inflatable vehicle,Navy
+4166598,Vehicle enshrouding apparatus,Navy
+4155579,Rotating detent latch mechanism,Navy
+4201611,Carbon/carbon composite for re-entry vehicle applications,Navy
+4234144,Base vent assembly for entry space vehicles,Navy
+4170904,Single-axis disturbance compensation system,Navy
+4173187,Multipurpose protection system,Navy
+4185558,Re-entry vehicle boundary layer transition suppressor,Navy
+4813476,Expandable pulse power spacecraft radiator,Navy
+4842045,Expandable radiator,Navy
+4828207,Fluid lock,Navy
+4923151,Tether power generator for earth orbiting satellites,Navy
+4974668,LDR centrifugal collector apparatus,Navy
+5053622,Early ballistic missile detection system,Navy
+5036770,ACS blowoff door assembly,Navy
+5036905,High efficiency heat exchanger,Navy
+9980361,Thermally isolated thermionic hollow cathodes,Navy
+9983585,Method and apparatus for operation of a remote sensing platform,Navy
+9919813,Control system and method for a plane change for satellite operations,Navy
+9025333,Tunable thermal switch,Navy
+9038958,Method and apparatus for contingency guidance of a CMG-actuated spacecraft,Navy
+9194379,Field-ionization based electrical space ion thruster using a permeable substrate,Navy
+8768622,System and method for maneuver plan for satellites flying in proximity using apocentral coordinate system,Navy
+8770522,Deployable space boom using bi-stable tape spring mechanism,Navy
+8880246,Method and apparatus for determining spacecraft maneuvers,Navy
+8976245,Optical orbital debris spotter,Navy
+9567112,Method and apparatus for singularity avoidance for control moment gyroscope (CMG) systems without using null motion,Navy
+9527608,ELF and VLF antenna and related methods,Navy
+9783323,Ram angle and magnetic field sensor (RAMS),Navy
+9639085,Phugoid peaks trajectory for hypersonic glide vehicles,Navy
+8356774,Structure for storing and unfurling a flexible material,Navy
+8006937,Spacecraft docking interface mechanism,Navy
+8147943,Replaceable impact resistant thermal protection system,Navy
+8142874,Bi-material composite structure with reduced thermal expansion,Navy
+8437892,Method and system for establishment and maintenance of a global formation of directionally-fixed spacecraft without the use of expendable mass,Navy
+8465607,Higher-performance solid-rocket propellants and methods of utilizing them,Navy
+8384613,Deployable structures with quadrilateral reticulations,Navy
+8469314,Technique for de-orbiting small debris from the near-earth space environment,Navy
+8579235,Technique for de-orbiting small debris from the near-earth space environment,Navy
+8656989,Grid-stiffened panel with integrated fluid distribution channels,Navy
+7354021,Magnet for an ionic drive for space vehicles,Navy
+7354033,Tape-spring deployable hinge,Navy
+7435032,Resilient joint for deployable structures,Navy
+7617639,Tape-spring deployable boom,Navy
+7637461,Approaches to actively protect spacecraft from damage due to collisions with ions,Navy
+7934685,Methods to actively protect spacecraft from damage due to collision with ions,Navy
+7941978,Deployable heirarchical structure,Navy
+7895795,Triangular rollable and collapsible boom,Navy
+7819221,Lightweight acoustic damping treatment,Navy
+7837008,Passive acoustic barrier,Navy
+6101430,Global positioning system self calibration attitude determination,"Space Systems/Loral, Inc."
+6073887,High power spacecraft with full utilization of all spacecraft surfaces,"Space Systems/Loral, Inc."
+6068217,Method to reorient a spacecraft using only initial single axis attitude knowledge,"Space Systems/Loral, Inc."
+6052630,Thruster optimized pair selection,"Space Systems/Loral, Inc."
+6053455,Spacecraft attitude control system using low thrust thrusters,"Space Systems/Loral, Inc."
+6032904,Multiple usage thruster mounting configuration,"Space Systems/Loral, Inc."
+6034322,Solar cell assembly,"Space Systems/Loral, Inc."
+6029438,Drive circuit for electric propulsion thruster,"Space Systems/Loral, Inc."
+6012000,Simplified onboard attitude control based on star sensing,"Space Systems/Loral, Inc."
+6008448,Solar panel array with stepped taper,"Space Systems/Loral, Inc."
+6010096,Deployment restraint and sequencing device,"Space Systems/Loral, Inc."
+5978716,Satellite imaging control system for non-repeatable error,"Space Systems/Loral, Inc."
+5957411,Method using double thruster firings to deadbeat flexible solar array structural oscillations,"Space Systems/Loral, Inc."
+5963166,Precise spacecraft camera image navigation and registration,"Space Systems/Loral, Inc."
+6000661,Autonomous spacecraft payload base motion estimation and correction,"Space Systems/Loral, Inc."
+6005184,Solar panels having improved heat dissipation properties,"Space Systems/Loral, Inc."
+5996942,Autonomous solar torque management,"Space Systems/Loral, Inc."
+5992799,Earth based spacecraft orbit and attitude control using a look-ahead thruster selection logic and magnetic torquers,"Space Systems/Loral, Inc."
+5903837,Wireless telephone/satellite roaming method,"Space Systems/Loral, Inc."
+5865401,Tethered space platform assembly for isolation orbiting,"Space Systems/Loral, Inc."
+5886499,Life extending operational regime for battery,"Space Systems/Loral, Inc."
+5957408,Satellite with east and west battery radiators,"Space Systems/Loral, Inc."
+5826829,Spacecraft control system with a trihedral momentum bias wheel configuration,"Space Systems/Loral, Inc."
+5822515,Correction of uncommanded mode changes in a spacecraft subsystem,"Space Systems/Loral, Inc."
+5862462,Power enhancement techniques for high power satellites,"Space Systems/Loral, Inc."
+5864320,Synchronous rotation dual-axis mechanical hinge assemblies,"Space Systems/Loral, Inc."
+5785280,Hybrid solar panel array,"Space Systems/Loral, Inc."
+5787368,Spacecraft yaw control using only wheel speed measurements processed through a simple filter bank,"Space Systems/Loral, Inc."
+6154692,Spacecraft yaw pointing for inclined orbits,"Space Systems/Loral, Inc."
+6164597,Using reflected solar radiation pressure to provide stationkeeping maneuvering of a spacecraft,"Space Systems/Loral, Inc."
+6141606,Wheel speed control system for spacecraft with rejection of null space wheel momentum,"Space Systems/Loral, Inc."
+6142422,Method to reorient a spacecraft using only initial single axis attitude knowledge,"Space Systems/Loral, Inc."
+6138952,Transient free actuator switching,"Space Systems/Loral, Inc."
+6133818,Redundant fuse wire release device,"Space Systems/Loral, Inc."
+6135394,Practical method and apparatus for satellite stationkeeping,"Space Systems/Loral, Inc."
+6125310,Thruster on time signaling with flexure compensation avoidance,"Space Systems/Loral, Inc."
+6237876,Methods for using satellite state vector prediction to provide three-axis satellite attitude control,"Space Systems/Loral, Inc."
+6238820,Battery cell sleeve for spacecraft applications,"Space Systems/Loral, Inc."
+6253125,Method and apparatus for generating orbital data,"Space Systems/Loral, Inc."
+6248950,Solar array augmented electrostatic discharge for spacecraft in geosynchronous earth orbit,"Space Systems/Loral, Inc."
+6196501,Satellite architecture with deployable electrical equipment,"Space Systems/Loral, Inc."
+6207315,Three dimensional battery for space applications,"Space Systems/Loral, Inc."
+6205378,Adaptive mass expulsion attitude control system,"Space Systems/Loral, Inc."
+6186446,Solar array control for electric propulsion system,"Space Systems/Loral, Inc."
+6182441,Drive circuit for electric propulsion thruster,"Space Systems/Loral, Inc."
+6381520,Sun seeking solar array control system and method,"Space Systems/Loral, Inc."
+6317660,Method for using satellite state vector prediction to provide satellite sensor automatic scan inhibit and/or sensor switching,"Space Systems/Loral, Inc."
+6317661,"Argument of perigee correction with longitude control for inclined, eccentric, geosynchronous satellites","Space Systems/Loral, Inc."
+6318676,Equatorial-normal body-stabilized spacecraft and control method for inclined orbit operation,"Space Systems/Loral, Inc."
+6332590,Photoemission based spacecraft charging sensor,"Space Systems/Loral, Inc."
+6341750,Spacecraft motion estimation using a gimballed momentum wheel,"Space Systems/Loral, Inc."
+6261716,Battery cell sleeve for spacecraft applications,"Space Systems/Loral, Inc."
+6296207,Combined stationkeeping and momentum management,"Space Systems/Loral, Inc."
+6291099,Battery system,"Space Systems/Loral, Inc."
+6285928,Onboard attitude control using reaction wheels,"Space Systems/Loral, Inc."
+6311929,Spacecraft and appendage stepping methods that improve spacecraft attitude pointing and cancel solar array slew disturbances,"Space Systems/Loral, Inc."
+6308919,Spacecraft having a dual reflector holddown for deploying multiple reflectors in a single release event,"Space Systems/Loral, Inc."
+6314344,Automated orbit compensation system and method,"Space Systems/Loral, Inc."
+6311932,Yaw steering momentum system,"Space Systems/Loral, Inc."
+6312849,Method for producing a battery cell structure,"Space Systems/Loral, Inc."
+6735501,Satellite commanding using remotely controlled modulation of satellite on-board telemetry parameters,"Space Systems/Loral, Inc."
+6776220,Spacecraft radiator system using crossing heat pipes,"Space Systems/Loral, Inc."
+6883588,Spacecraft radiator system using a heat pump,"Space Systems/Loral, Inc."
+6854510,Spacecraft radiator system and method using cross-coupled deployable thermal radiators,"Space Systems/Loral, Inc."
+7028953,Two-sided deployable thermal radiator system and method,"Space Systems/Loral, Inc."
+6543723,Electric orbit raising with variable thrust,"Space Systems/Loral, Inc."
+6517029,Friction and stiction compensation for spacecraft attitude control,"Space Systems/Loral, Inc."
+6456907,System and method for limiting the effects of actuator saturation to certain body axes of a spacecraft,"Space Systems/Loral, Inc."
+6454217,Method and apparatus for rate integration supplement for attitude referencing with quaternion differencing,"Space Systems/Loral, Inc."
+6464174,Round-trip orbital operation of a spacecraft,"Space Systems/Loral, Inc."
+6478257,Phase change material thermal control for electric propulsion,"Space Systems/Loral, Inc."
+6478258,Spacecraft multiple loop heat pipe thermal system for internal equipment panel applications,"Space Systems/Loral, Inc."
+6439507,Closed-loop spacecraft orbit control,"Space Systems/Loral, Inc."
+6453220,Low earth orbit satellite constellation stationkeeping algorithm with absolute altitude control,"Space Systems/Loral, Inc."
+6450453,Active steering of an appendage on a spacecraft using piezoelectric actuators,"Space Systems/Loral, Inc."
+6450454,Spacecraft attack and distress ejectable recorder,"Space Systems/Loral, Inc."
+6445981,Controller and control method for satellite orbit-keeping maneuvers,"Space Systems/Loral, Inc."
+6439509,Pre-bias scheme for roll momentum unloads on pitch momentum bias/yaw reaction wheel spacecraft,"Space Systems/Loral, Inc."
+6623826,Passive intermodulation free multilayer thermal blanket,"Space Systems/Loral, Inc."
+6591899,Spacecraft multi-directional loop heat pipe thermal systems,"Space Systems/Loral, Inc."
+6581880,Energy managed electric propulsion methods and systems for stationkeeping satellites,"Space Systems/Loral, Inc."
+6691955,Spacecraft having a momentum wheel configuration that prevents zero wheel speeds,"Space Systems/Loral, Inc."
+6672544,Satellite harmonic torque estimator,"Space Systems/Loral, Inc."
+5349532,Spacecraft attitude control and momentum unloading using gimballed and throttled thrusters,"Space Systems/Loral, Inc."
+5332030,Multi-directional cooler,"Space Systems/Loral, Inc."
+5359280,Bilateral power converter for a satellite power system,"Space Systems/Loral, Inc."
+5303286,Wireless telephone/satellite roaming system,"Space Systems/Loral, Inc."
+5326054,Apogee at constant time-of-day equatorial (ACE) orbit,"Space Systems/Loral, Inc."
+5328312,Dual load-path fastener,"Space Systems/Loral, Inc."
+5255878,Spin reorientation maneuver for spinning spacecraft,"Space Systems/Loral, Inc."
+5273815,Thermal control and electrostatic discharge laminate,"Space Systems/Loral, Inc."
+5222023,Compensated transition for spacecraft attitude control,"Space Systems/Loral, Inc."
+5172876,Spin reorientation maneuver for spinning spacecraft,"Space Systems/Loral, Inc."
+5100084,Method and apparatus for inclined orbit attitude control for momentum bias spacecraft,"Space Systems/Loral, Inc."
+5124925,Method for controlling east/west motion of a geostationary satellite,"Space Systems/Loral, Inc."
+5649310,Signal translation and amplification system including a thermal radiation panel coupled thereto,"Space Systems/Loral, Inc."
+5618012,Satellite stabilization system,"Space Systems/Loral, Inc."
+5623269,Mobile communication satellite payload,"Space Systems/Loral, Inc."
+5568904,Steered perigee velocity augmentation,"Space Systems/Loral, Inc."
+5597142,Spacecraft acquisition of orientation by scan of earth sensor field of view,"Space Systems/Loral, Inc."
+5752675,Thruster control of yaw without yaw measurements,"Space Systems/Loral, Inc."
+5669586,Satellite gravity gradient compensation using on-orbit solar array reorientation,"Space Systems/Loral, Inc."
+5673459,Deployment hinge apparatus,"Space Systems/Loral, Inc."
+5715297,Wireless telephone/satellite roaming system,"Space Systems/Loral, Inc."
+5400252,Spacecraft East/West orbit control during a North or South stationkeeping maneuver,"Space Systems/Loral, Inc."
+5422647,Mobile communication satellite payload,"Space Systems/Loral, Inc."
+5477132,Multi-sectioned power converter having current-sharing controller,"Space Systems/Loral, Inc."
+5486399,Self-supporting convex cover for spacecraft,"Space Systems/Loral, Inc."
+5459669,Control system and method for spacecraft attitude control,"Space Systems/Loral, Inc."
+5548292,Mobile communication satellite payload,"Space Systems/Loral, Inc."
+7363960,Heat transfer of a remote heat source using a loop heat pipe,"Space Systems/Loral, Inc."
+7874519,Spacecraft three-axis attitude acquisition from sun direction measurement,"Space Systems/Loral, Inc."
+8448902,Satellite having multiple aspect ratios,"Space Systems/Loral, Inc."
+8568053,Radial release device,"Space Systems/Loral, Inc."
+8021069,Redundant radial release apparatus,"Space Systems/Loral, Inc."
+9352856,Axially grooved crossing heat pipes,"Space Systems/Loral, Inc."
+9365299,Highly inclined elliptical orbit launch and orbit acquisition techniques,"Space Systems/Loral, Inc."
+9550585,Highly inclined elliptical orbit de-orbit techniques,"Space Systems/Loral, Inc."
+9546510,Hinge with spring pre-load transfer mechanism,"Space Systems/Loral, Inc."
+9533774,Highly inclined elliptical orbit launch and orbit acquisition techniques,"Space Systems/Loral, Inc."
+9708082,Radial release device,"Space Systems/Loral, Inc."
+9677602,Caging mechanism for a single- or multi-axis positioning mechanism,"Space Systems/Loral, Inc."
+9663251,Thruster support mechanism for satellite propulsion,"Space Systems/Loral, Inc."
+9248922,Reflector deployment techniques for satellites,"Space Systems/Loral, Inc."
+9242743,Side-by-side multiple launch configuration,"Space Systems/Loral, Inc."
+9045239,Spacecraft payload orientation steering,"Space Systems/Loral, Inc."
+9085377,Redundant fuse wire release device,"Space Systems/Loral, Inc."
+9108748,Satellite orbit raising using electric propulsion,"Space Systems/Loral, Inc."
+9108749,Spacecraft momentum management,"Space Systems/Loral, Inc."
+9145216,Unified chemical electric propulsion system,"Space Systems/Loral, Inc."
+9180982,Preload releasing fastener and release system using same,"Space Systems/Loral, Inc."
+9004409,Extendable antenna reflector deployment techniques,"Space Systems/Loral, Inc."
+8973641,Roll-up contamination cover,"Space Systems/Loral, Inc."
+8998146,Spacecraft momentum unload and station-keeping techniques,"Space Systems/Loral, Inc."
+8894017,Flexible array support structure,"Space Systems/Loral, Inc."
+8915473,Hold-down mechanism for a spacecraft appendage,"Space Systems/Loral, Inc."
+8915474,Solar panel sequencing mechanism,"Space Systems/Loral, Inc."
+8732916,Band clamp with redundant load path,"Space Systems/Loral, Inc."
+8763957,Spacecraft transfer orbit techniques,"Space Systems/Loral, Inc."
+8789796,High capacity broadband satellite,"Space Systems/Loral, Inc."
+8800935,Spacecraft payload positioning with respect to a virtual pivot point,"Space Systems/Loral, Inc."
+8868263,Spacecraft momentum management using solar array,"Space Systems/Loral, Inc."
+8876062,Shape memory alloy pre-loaded deployment hinge,"Space Systems/Loral, Inc."
+9889950,Spacecraft with aerodynamic control,"Space Systems/Loral, Inc."
+9878806,On-orbit assembly of communication satellites,"Space Systems/Loral, Inc."
+5129753,Shape memory wire latch mechanism,TRW Inc.
+5217188,Modular solid-propellant launch vehicle and related launch facility,TRW Inc.
+5185042,Generic solar cell array using a printed circuit substrate,TRW Inc.
+5342465,Viscoelastic damping structures and related manufacturing method,TRW Inc.
+5334848,Spacecraft docking sensor system,TRW Inc.
+5305971,Spacecraft control by electrochromic devices,TRW Inc.
+5232073,Process for damping dynamic load,TRW Inc.
+5282357,High-performance dual-mode integral propulsion system,TRW Inc.
+5294079,Space transfer vehicle,TRW Inc.
+5655757,Actively controlled damper,TRW Inc.
+5628476,Encapsulating service module for emergency descent vehicles,TRW Inc.
+5638383,Advanced integrated avionics testing system,TRW Inc.
+5572865,Satellite propulsion and power system,TRW Inc.
+5734736,Autonomous rendezvous and docking system and method therefor,TRW Inc.
+5551624,Medium-earth-altitude satellite-based cellular telecommunications,TRW Inc.
+5415367,Medium-earth-altitude satellite-based cellular telecommunications system,TRW Inc.
+5415368,Medium-earth-altitude satellite-based cellular telecommunications,TRW Inc.
+5417049,Satellite propulsion and power system,TRW Inc.
+5433726,Medium-earth-altitude satellite-based cellular telecommunications system,TRW Inc.
+5439190,Medium-earth-altitude satellite-based cellular telecommunications,TRW Inc.
+5402728,Low shock separation bolt,TRW Inc.
+4880187,Multipurpose modular spacecraft,TRW Inc.
+4847506,Hardening of spacecraft structures against momentary high level radiation exposure using a radiation shield,TRW Inc.
+4955559,Thrust vector control system for aerospace vehicles,TRW Inc.
+4943014,Soft ride method for changing the altitude or position of a spacecraft in orbit,TRW Inc.
+4991393,Spacecraft guidance and control system,TRW Inc.
+5030490,Viscoelastic damping structures and related manufacturing method,TRW Inc.
+5046691,ORU latch,TRW Inc.
+4554038,"Process for fabricating lightweight, rigid solar array substrate",TRW Inc.
+4575029,Spacecraft for use in conjunction with a reusable space shuttle,TRW Inc.
+4682804,Releasable coupling assembly,TRW Inc.
+4618111,Spacecraft structure for supporting an optical bench,TRW Inc.
+3984071,Satellite nutation attenuation apparatus,TRW Inc.
+3981418,Expulsion device,TRW Inc.
+4267003,Automatic solar cell glassing machine and method,TRW Inc.
+4322946,Thermal thruster with superheater,TRW Inc.
+4384163,Ultra lightweight folding panel structure,TRW Inc.
+4471926,Transfer vehicle for use in conjunction with a reusable space shuttle,TRW Inc.
+6299105,Spacecraft with an environmentally released deployable structure,TRW Inc.
+6304799,Apparatus and method for lasercom tracking acquisition,TRW Inc.
+6315247,Spacecraft with a microdynamic noise-free holding mechanism,TRW Inc.
+6279857,Silicon thermal control blanket,TRW Inc.
+6345788,Composite structure element with built-in damping,TRW Inc.
+6330093,Connector interface for spacecraft modules,TRW Inc.
+6322023,Evolvable propulsion module,TRW Inc.
+6128555,"In situ method and system for autonomous fault detection, isolation and recovery",TRW Inc.
+6131646,Heat conductive interface material,TRW Inc.
+6135393,Spacecraft attitude and velocity control thruster system,TRW Inc.
+6142423,Ephemeris/attitude reference determination using on-board optics and other satellite ephemeris,TRW Inc.
+6149104,Structural layout for spacecraft including specialized compartment configuration,TRW Inc.
+6150995,Combined photovoltaic array and RF reflector,TRW Inc.
+6147294,D-wing deployable solar array,TRW Inc.
+6138998,Spacecraft antenna slew control systems,TRW Inc.
+6213430,Vehicle launch system having an acoustic insulator,TRW Inc.
+6178741,Mems synthesized divert propulsion system,TRW Inc.
+6193193,Evolvable propulsion module,TRW Inc.
+6234426,Modular spacecraft construction requiring no tools for assembly and disassembly,TRW Inc.
+6234427,Solar array regulation and spacecraft pointing using flywheel energy storage with programmable voltage control,TRW Inc.
+6252334,Digital control of smart structures,TRW Inc.
+5906337,Multiple altitude satellite relay system and method,TRW Inc.
+5904317,Method for adjusting stiffness and acoustic properties of an externally mountable spacecraft equipment module,TRW Inc.
+5897080,Externally mountable spacecraft equipment module,TRW Inc.
+5867783,Medium-earth-altitute satellite-based cellular telecommunications,TRW Inc.
+5921505,System and method for reducing mechanical disturbances from energy storage flywheels,TRW Inc.
+5931418,Functionally independent spacecraft module,TRW Inc.
+5951609,Method and system for autonomous spacecraft control,TRW Inc.
+5819526,Low power arcjet propellant feed system,TRW Inc.
+5810296,Integrated restraint/release/deployment initiation device,TRW Inc.
+5798574,Distributed electrical power system for modular spacecraft,TRW Inc.
+5857648,Precision deployable boom assembly,TRW Inc.
+6029935,Method for adding a geostationary component to a non-geostationary satellite network,TRW Inc.
+6031486,Method and apparatus for integration and testing of satellites,TRW Inc.
+6036143,Solar array-mounted stationkeeping and maneuvering thrusters,TRW Inc.
+6017013,Damped instrument kinematic mounts,TRW Inc.
+5984385,Active ERM damper for spacecraft telescoping structures,TRW Inc.
+5979833,Modular spacecraft architecture,TRW Inc.
+5961076,Modular spacecraft development process,TRW Inc.
+5971324,Multiple altitude satellite relay system and method,TRW Inc.
+6080962,Self-contained thermal control for a spacecraft module,TRW Inc.
+6098930,Solid-state spacecraft with minimal moving parts,TRW Inc.
+6065529,Embedded heat pipe structure,TRW Inc.
+6437232,D-wing deployable solar array,TRW Inc.
+6487844,Aerospike augmentation of microthruster impulse,TRW Inc.
+6478261,Spacecraft with deployable panel array,TRW Inc.
+6541916,Method for providing discharge power to electric propulsion thrusters,TRW Inc.
+6539703,Spacecraft component with microthruster actuation and operation thereof,TRW Inc.
+5775645,Controlled-emission solar tabs for attitude solar sailing,Hughes Electronics Corporation
+5771019,Method and system for determining the location of a sense antenna associated with a phased array communication system,Hughes Electronics Corporation
+5758846,Satellite spin inversion using a single degree of freedom momentum storage device,Hughes Electronics Corporation
+5765780,Systematic vectored thrust calibration method for satellite momentum control,Hughes Electronics Corporation
+6149103,Free return lunar flyby transfer method for geosynchronous satellites havint multiple perilune stages,Hughes Electronics Corporation
+6145790,Attitude determination system and method,Hughes Electronics Corporation
+6152402,Dual spin zero momentum satellite system,Hughes Electronics Corporation
+6152403,Gyroscopic calibration methods for spacecraft,Hughes Electronics Corporation
+6138061,Onboard orbit propagation using quaternions,Hughes Electronics Corporation
+6138953,Slew rate direction determination for acquisition maneuvers using reaction wheels,Hughes Electronics Corporation
+6176453,Radiator using thermal control coating,Hughes Electronics Corporation
+6173923,Power wing,Hughes Electronics Corporation
+6128575,Methods for accurately inserting satellite constellations into common orbit planes,Hughes Electronics Corporation
+6129315,Independent launch lock mechanism,Hughes Electronics Corporation
+6135392,Spacecraft attitude control actuator and method,Hughes Electronics Corporation
+6135389,Subterranean target steering strategy,Hughes Electronics Corporation
+6119986,Thin-film solar reflectors and methods,Hughes Electronics Corporation
+6128426,High speed bi-directional optical rotary joint,Hughes Electronics Corporation
+6126116,Coordinatable system of inclined eccentric geosynchronous orbits,Hughes Electronics Corporation
+6124378,"(Zinc, cadmium, magnesium) aluminate-gallate-containing organic-binder paint and film articles",Hughes Electronics Corporation
+6236939,Method and apparatus for controlling spacecraft attitude with rotational star trackers,Hughes Electronics Corporation
+6254036,Method and apparatus for spacecraft wheel desaturation,Hughes Electronics Corporation
+6216097,Power measuring cooling plant system and method,Hughes Electronics Corporation
+6196502,Attitude control of spinning spacecraft with counterspun controls platform,Hughes Electronics Corporation
+6198990,Methods for accurately inserting satellite constellations into common orbit planes,Hughes Electronics Corporation
+6195044,Laser crosslink satellite attitude determination system and method,Hughes Electronics Corporation
+6189835,Apparatus for spacecraft angular momentum control through the use of reflective thermal blankets,Hughes Electronics Corporation
+6347262,Minimum fuel attitude and nutation controller for spinning spacecraft,Hughes Electronics Corporation
+6341749,Method of simultaneously reducing inclination and eccentricity for geostationary orbit transfer,Hughes Electronics Corporation
+6340138,Stationkeeping method utilizing open-loop thruster pulses and closed-loop authority limited momentum storage devices,Hughes Electronics Corporation
+6325332,Coordinatable system of inclined geosynchronous satellite orbits,Hughes Electronics Corporation
+6330988,System for star catalog equalization to enhance attitude determination,Hughes Electronics Corporation
+6336318,"Ion thruster having a hollow cathode assembly with an encapsulated heater, and its fabrication",Hughes Electronics Corporation
+6339734,Method and apparatus for reducing spacecraft instrument induced jitter via multifrequency cancellation,Hughes Electronics Corporation
+6318675,Solar wing thermal shock compensation using solar wing position actuator,Hughes Electronics Corporation
+6318069,Ion thruster having grids made of oriented pyrolytic graphite,Hughes Electronics Corporation
+6382565,Satellite spin reorientation using a single degree of freedom momentum storage device,Hughes Electronics Corporation
+6405979,"Spacecraft protected by a coating including pyroelectric/ferroelectric particles, and the coating material",Hughes Electronics Corporation
+6362464,System for stellar inertial attitude determination,Hughes Electronics Corporation
+6360996,Steering control for skewed scissors pair CMG clusters,Hughes Electronics Corporation
+6356815,Stellar attitude-control systems and methods with weighted measurement-noise covariance matrices,Hughes Electronics Corporation
+6272432,System and method for correcting star tracker low spatial frequency error in stellar-inertial attitude determination systems,Hughes Electronics Corporation
+6266616,Confused-in-space stellar attitude acquisition using multiple star trackers,Hughes Electronics Corporation
+6260805,Method of controlling attitude of a momentum biased spacecraft during long-duration thruster firings,Hughes Electronics Corporation
+6260806,Method and apparatus for using a momentum bias to provide spacecraft attitude stabilization during an eclipse,Hughes Electronics Corporation
+6260808,Passive electrical grounding of a spacecraft to the ambient plasma environment,Hughes Electronics Corporation
+6283415,Simplified yaw steering method for satellite antenna beam control,Hughes Electronics Corporation
+6285395,Earth sensor for satellite,Hughes Electronics Corporation
+6285927,Spacecraft attitude determination system and method,Hughes Electronics Corporation
+6288670,Combined roll-yaw spacecraft steering method for low earth orbit target trajectory compensation,Hughes Electronics Corporation
+6305646,Eccentricity control strategy for inclined geosynchronous orbits,Hughes Electronics Corporation
+6304822,Spacecraft attitude control systems with dynamic methods and structures for processing star tracker signals,Hughes Electronics Corporation
+6298288,Autonomous gyro scale factor and misalignment calibration,Hughes Electronics Corporation
+6293501,Spacecraft momentum management system,Hughes Electronics Corporation
+6293502,System and method for enhanced solar array pointing in sun-nadir steering,Hughes Electronics Corporation
+6032903,Cooperative control structures and methods for satellite spin axis control,Hughes Electronics Corporation
+6027076,Method for powering a spacecraft with extended-life battery operation,Hughes Electronics Corporation
+6019318,Coordinatable system of inclined geosynchronous satellite orbits,Hughes Electronics Corporation
+6019320,Spacecraft acquisition of sun pointing,Hughes Electronics Corporation
+6021979,Sun-referenced safe-hold control for momentum biased satellites,Hughes Electronics Corporation
+6017002,Thin-film solar reflectors deployable from an edge-stowed configuration,Hughes Electronics Corporation
+6024328,Satellite control method using single species of bipropellant,Hughes Electronics Corporation
+6015116,Fuel efficient methods for satellite stationkeeping and momentum dumping,Hughes Electronics Corporation
+5996940,Apparatus and method for combined redundant deployment and launch locking of deployable satellite appendages,Hughes Electronics Corporation
+6003818,System and method for utilizing stored momentum to optimize spacecraft slews,Hughes Electronics Corporation
+6053454,Modular spacecraft payload support structure,Hughes Electronics Corporation
+6047928,Friction clamp restraint mechanism for springback reflectors,Hughes Electronics Corporation
+6050526,Solar reflector systems and methods,Hughes Electronics Corporation
+6042058,Stationkeeping and momentum-dumping thruster systems and methods,Hughes Electronics Corporation
+6047226,Enhanced stellar attitude determination system,Hughes Electronics Corporation
+6076772,Methods for controlling spacecraft attitudes without exciting spacecraft resonances,Hughes Electronics Corporation
+6076773,Spin-stabilized spacecraft and methods,Hughes Electronics Corporation
+6076774,Fuel and thermal optimal spiral earth acquisition,Hughes Electronics Corporation
+6062512,"Wobble and nutation control, and spin stabilization for a spacecraft using momentum conserving devices",Hughes Electronics Corporation
+6068218,"Agile, spinning spacecraft with sun-steerable solar cell array and method",Hughes Electronics Corporation
+6070833,Methods for reducing solar array power variations while managing the system influences of operating with off-pointed solar wings,Hughes Electronics Corporation
+6116545,Free return lunar flyby transfer method for geosynchronous satellites,Hughes Electronics Corporation
+6113033,Combined flywheel energy storage and attitude control apparatus for spacecraft,Hughes Electronics Corporation
+6108593,Method and apparatus for estimating attitude sensor bias in a satellite,Hughes Electronics Corporation
+6108594,Autonomous attitude acquisition for a stellar inertial attitude determination system,Hughes Electronics Corporation
+6102337,Spacecraft attitude control with gimbaled thrusters,Hughes Electronics Corporation
+6099637,"(Zinc,cadmium,magnesium) aluminate-gallate-containing paints and their use on spacecraft",Hughes Electronics Corporation
+6087646,Wide field-of-view radiation sensors and methods,Hughes Electronics Corporation
+6089510,Magnetic systems and methods for realizing spacecraft maneuvers,Hughes Electronics Corporation
+6089508,Autonomous spacecraft safing with reaction wheels,Hughes Electronics Corporation
+5839696,Modular payload arrangement,Hughes Electronics Corporation
+5833175,Spacecraft with large east-west dimensions,Hughes Electronics Corporation
+5833176,Bowed solar array,Hughes Electronics Corporation
+5823476,Device and method for equalizing heat dissipation between multiple radiators on a spacecraft,Hughes Electronics Corporation
+5823477,Device and method for minimizing radiator area required for heat dissipation on a spacecraft,Hughes Electronics Corporation
+5820669,"(Zinc,cadmium) aluminate-gallate-containing paints",Hughes Electronics Corporation
+5826830,"Dual-half system, full torque reaction control thruster configuration for three-axis stabilized spacecraft",Hughes Electronics Corporation
+5826828,Sun/earth acquisition without thrusters,Hughes Electronics Corporation
+5787969,Flexible heat transport design for development applications,Hughes Electronics Corporation
+5794890,Shielded radiator,Hughes Electronics Corporation
+5806803,Spacecraft radiator cooling system,Hughes Electronics Corporation
+5813633,Method and apparatus for stationkeeping a satellite offset by pitch rotation,Hughes Electronics Corporation
+5810295,Method and apparatus for a satellite station keeping,Hughes Electronics Corporation
+5807909,"(Zinc, cadmium) aluminate-gallate-containing organic-binder paint and film articles",Hughes Electronics Corporation
+5820078,Control motion gyro with vibration isolation,Hughes Electronics Corporation
+5816538,Dynamic decoupler for improved attitude control,Hughes Electronics Corporation
+5938703,Embedded command module with matrix switch drive capability,Hughes Electronics Corporation
+5878980,Attenuation ring,Hughes Electronics Corporation
+5884868,Radiator using thermal control coating,Hughes Electronics Corporation
+5884869,Satellite spin vector control with sun sensor,Hughes Electronics Corporation
+5887823,Gimbal mechanism and gearbox for same,Hughes Electronics Corporation
+5895014,Satellite solar array and method of biasing to reduce seasonal output power fluctuations,Hughes Electronics Corporation
+5909860,Deployment sequencer,Hughes Electronics Corporation
+6807397,Method for identifying growth limits of handheld services for mobile satellite communications,Hughes Electronics Corporation
+6431496,Method and apparatus for operating satellites in orbit,Hughes Electronics Corporation
+6439511,Thermal shock avoidance for satellite solar panels,Hughes Electronics Corporation
+6441776,Method and apparatus for spacecraft payload pointing registration,Hughes Electronics Corporation
+6484608,Method and apparatus for providing two axis motion with a single drive device,Hughes Electronics Corporation
+6478260,Star detection and location system,Hughes Electronics Corporation
+6474602,Spacecraft pointing performance via optimized solar array orientation,Hughes Electronics Corporation
+6470243,Correction of spacecraft steering control law for unexpected orbital inclination effects,Hughes Electronics Corporation
+6547190,Application of carbon fiber mesh for space and airborne platform applications,Hughes Electronics Corporation
+6545853,Alternate grounding method,Hughes Electronics Corporation
+6501941,Method for identifying growth limits of handheld services for mobile satellite communications,Hughes Electronics Corporation
+6505795,Application of carbon fiber mesh for space and airborne platform applications,Hughes Electronics Corporation
+6504502,Method and apparatus for spacecraft antenna beam pointing correction,Hughes Electronics Corporation
+6513758,High altitude platform control system,Hughes Electronics Corporation
+6567040,Offset pointing in de-yawed phased-array spacecraft antenna,Hughes Electronics Corporation
+6631871,High altitude platform control system,Hughes Electronics Corporation
+6691033,System and method for calibrating inter-star-tracker misalignments in a stellar inertial attitude determination system,Hughes Electronics Corporation
+6679456,"Spacecraft protected by a coating including pyroelectric/ferroelectric particles, and the coating material",Hughes Electronics Corporation
+6635507,Monolithic bypass-diode and solar-cell string assembly,Hughes Electronics Corporation

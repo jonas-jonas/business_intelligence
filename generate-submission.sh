@@ -15,7 +15,7 @@ ENTRY_FILE="${PWD}/article.adoc"
 DESTINATION_DIR="${PWD}/../generated" # Hack to reach the generated folder in project root
 
 #Publish
-asciidoctor-pdf -a pdf-stylesdir=$STYLES_DIR -a pdf-style=$THEME -a pdf-fontsdir=$FONTS_DIR $ENTRY_FILE -D $DESTINATION_DIR --trace
+asciidoctor-pdf -a pdf-stylesdir=$STYLES_DIR -a pdf-style=$THEME -a pdf-fontsdir=$FONTS_DIR $ENTRY_FILE -D $DESTINATION_DIR -o cosmonautics_hungershausen_jonas.pdf
 echo "Generated article.pdf in 'generated' directory."
 
 if [ "$1" == "--watch" ]; then
@@ -23,7 +23,7 @@ if [ "$1" == "--watch" ]; then
     inotifywait -m $PWD -e close_write |
     while read path action file; do
         if [[ "$file" =~ .*adoc$ ]]; then 
-            asciidoctor-pdf -a pdf-stylesdir=$STYLES_DIR -a pdf-style=$THEME -a pdf-fontsdir=$FONTS_DIR $ENTRY_FILE -D $DESTINATION_DIR
+            asciidoctor-pdf -a pdf-stylesdir=$STYLES_DIR -a pdf-style=$THEME -a pdf-fontsdir=$FONTS_DIR $ENTRY_FILE -D $DESTINATION_DIR -o cosmonautics_hungershausen_jonas.pdf
         fi
     done
 fi

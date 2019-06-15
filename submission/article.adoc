@@ -1,5 +1,5 @@
-= Cosmonautics: Große Akteure in der Raumfahrt
-Jonas Hungershausen <jonas.hungershausen@gmail.com>
+= Cosmonautics: Unteschiede und Gemeinsamkeiten bei staatlichen und privaten Akteuren in der Raumfahrt
+Jonas Hungershausen (630384)
 Business Intelligence
 :doctype: book
 :reproducible:
@@ -20,7 +20,7 @@ Nicht zuletzt war dies dem sinkenden Enthusiasmus der Gesellschaft geschuldet.
 Die Menschen hatten andere Probleme und da es keinen "Gegner" (die Sowjetunion) mehr gab, sahen immer weniger einen Grund für die Förderung der Raumfahrt.
 So wurden öffentliche Gelder in andere Gebiete investiert.
 
-Da die Raumfahrt ein sehr langwieriges Unterfangen ist, gab es auch lange wenig Anreize für private Investoren, in den Bereich zu investieren.
+Da die Raumfahrt ein sehr langwieriges Unterfangen ist, gab es lange wenig Anreize für private Investoren, in den Bereich zu investieren.
 Heute sieht das Bild etwas anders aus:
 Innovationen in der Raumfahrt sind vor allem von privaten Firmen geprägt.
 Diese haben die Mittel und die CEOs den Enthusiasmus die Menschheit zu einer multi-planetaren Spezies zu machen.
@@ -29,7 +29,7 @@ Aus dieser "neuen" Dynamik ergibt sich die Fragestellung dieser Arbeit:
 _Wie sieht die wirtschaftliche Landschaft der Raumfahrt aus und welche Parteien waren historisch, und sind heute daran beteiligt?_
 
 Diese Frage wird mithilfe von Analysen der Patente aus dem Bereich beantwortet.
-Dabei werden Unternehmen sowohl inhaltlich als auch zeitlich analysiert.
+Dabei werden Organisationen sowohl inhaltlich als auch zeitdynamisch analysiert.
 Die Analyse zeigt vor allem wie sich staatliche Akteure immer weiter zurück ziehen und der Markt von privaten Innovateuren übernommen wird.
 
 Zunächst wird die Recherchestrategie erläutert.
@@ -55,10 +55,10 @@ Dies brachte leider wenig Erfolg, da sich hier auch Patente wie _"Infrared space
 Es stellte sich heraus, dass nach Organisationen zu filtern, ein besserer Ansatz war.
 Doch auch hier traten schnell Probleme auf.
 So ist allein die _NASA_ mit über 20 verschiedenen Namen in der Datenbank vertreten.
-Die Analyse sollte sich jedoch nicht nur auf die _NASA_ beschränken, sondern auch andere Firmen beinhalten.
-Und auch diese Firmen waren mit verschiedenen Namen vertreten, sodass ein Filtern nach diesen Firmen sehr Unperformant war.
+Die Analyse sollte sich jedoch nicht nur auf die _NASA_ beschränken, sondern auch andere Organisationen beinhalten.
+Und auch diese Organisationen waren mit verschiedenen Namen vertreten, sodass das Filtern nach diesen Organisationen sehr kompliziert wurde.
 
-Letztendlich brachte die Recherche unter Berücksichtigung von Gruppen die besten Ergebnisse.
+Letztendlich brachte eine gruppenbasierte Recherche die besten Ergebnisse.
 Nach einem Blick auf die Sitemap von Googles Patentsuche eignete sich die Gruppe _Cosmonautics; Vehicles or equipment therefor_{empty}footnote:[https://www.google.com/patents/sitemap/en/Sitemap/B64/B64G.html] am besten zur Analyse.
 Dem Namen der Gruppe zu entnehmen enthält sie Patente von Fahrzeugen und Ausrüstung aus der Raumfahrt.
 In der _Patentsview_ Datenbank sind 4645 Patente und 790 unterschiedliche _Assignees_ in dieser Gruppe enthalten.
@@ -94,14 +94,14 @@ Bedingt durch die Weltfinanzkrise{empty}footnote:[https://de.wikipedia.org/wiki/
 [[top5_orgs_by_year]]
 image::./images/top5_orgs.png[Top 5 Patentanmelder pro Jahr]
 
-Einen besseren Überblick gibt die Darstellung der 5 größten Patentanmelder im genannten Zeitraum in <<top5_orgs_by_year>>.
-Hier werden nur noch NASA und Navy als staatliche Organisationen, sowie Boeing, Lockheed Martin und Thales als private Unternehmen aufgeführt.
-Die Beschränkung basiert auf der Anzahl Anmeldungen in der Gruppe B64G.
-Die fünf genannten Unternehmen haben die meisten Patentanmeldungen im genannten Zeitraum.
+Einen besseren Überblick gibt die Darstellung der 10 größten Patentanmelder im genannten Zeitraum in <<top5_orgs_by_year>>.
 
 Insgesamt lässt sich erkennen, dass anfangs vor allem staatliche Organisationen Innovationen in der Raumfahrt voran getrieben haben.
 Später sind auch immer mehr private Unternehmen dazu gekommen, während sich die staatlichen Organisationen immer weiter zurückzogen.
-Hier lässt sich also ein Wandel von Wettrüsten zu Forschungsdrang und Erkundung des Weltalls erkennen.
+Besonders zu nennen ist hier Boeing.
+Das Unternehmen meldet jedes Jahr seit 2001 die meisten Patente in der genannten Gruppe an.
+Um die Jahrtausendwende waren auch Space Systems/Loral Inc., Lockheed Martin und die Hughes Electronics Corporation große Anmelder.
+Es lässt sich also ein Wandel von Wettrüsten zu Forschungsdrang und Erkundung des Weltalls erkennen.
 
 === Inhaltliche Analyse der Patente
 
@@ -113,16 +113,32 @@ In <<wordcloud_title>> ist eine Wordcloud aus den Titeln der Patente dargestellt
 Je größer das Wort, desto häufiger trat es in den Titeln auf.
 Für eine bessere Aussagekraft wurden Stopwörter (wie "_for_", "_of_" und "_and_") nicht berücksichtig.
 
-Das Thema der Arbeit ist klar zu erkennen, da die Wörter _Spacecraft_ (Raumfahrzeug) und _Satellite_ (Satellit) sehr häufig auftritt.
-In <<word_frequencies>> sind die genauen Häufigkeiten pro Wort aufgelistet.
+Das Thema der Arbeit ist klar zu erkennen, da die Wörter _Spacecraft_ (Raumfahrzeug) und _Satellite_ (Satellit) sehr häufig auftreten.
+Auch scheint hier ein Fokus auf Systemen und Strukturen zu liegen.
+In <<word_frequencies>> sind die genauen Häufigkeiten pro Wort aufgelistet. 
 
-// TODO
+
+.Häufigste Wörter pro Organisation
+[[word_freq_by_orgs]]
+[format="csv"]
+,===
+Organisation ,Wort
+
+include::./data/most_used_words.csv[]
+,===
+
+In <<word_freq_by_orgs>> ist dargestellt, welches Wort in den Titeln der Patente der jeweiligen Organisation am häufigsten auftritt.
+So ist erkennbar, dass es kaum einen Unterschied zwischen staatlichen und privaten Organisationen gibt.
+Diese geringen Unterschiede werden durch eine Clusteranalyse der Wörter in den Titeln der Patente (<<patent_clustering>> im Anhang) bestätigt.
+Hier ist zu erkennen, dass die fünf untersuchten Organisationen alle in den gleichen Clustern tätig sind.
 
 == Fazit
 
 Diese Arbeit hat einen Einblick in die Patente der Raumfahrt gegeben.
 Dabei wurden vor allem die Unterschiede zwischen privaten und staatlichen Akteuren untersucht.
 Es wurden inhaltliche als auch zeitliche Unterschiede dargestellt und untersucht.
+So ist erkennbar, dass heute immer mehr private Organisationen in dem Feld aktiv sind.
+Jedoch gibt es inhaltlich wenig Unterschiede in den Patenten der verschiedenen Organisationen.
 
 Aufgrund des beschränkten Umfangs, konnte sich die Arbeit nur auf die größten Organisationen konzentrieren.
 Ein umfassenderer Blick auf das Feld kann durch die Berücksichtigung von mehr Akteuren gewonnen werden.
@@ -143,6 +159,13 @@ Für eine umfassendere Analyse müssten auch andere Patentbehörden mit einbezog
 - <<patents_by_year>>
 - <<top5_orgs_by_year>>
 - <<wordcloud_title>>
+- <<patent_clustering>>
+
+[appendix]
+== Tabellenverzeichnis
+
+- <<word_freq_by_orgs>>
+- <<word_frequencies>>
 
 [appendix]
 == Anhang
@@ -153,3 +176,7 @@ Für eine umfassendere Analyse müssten auch andere Patentbehörden mit einbezog
 |===
 include::./data/word_frequencies.csv[]
 |===
+
+.Clusteranalyse Patente
+[[patent_clustering]]
+image::./images/patent_clusters.png[]

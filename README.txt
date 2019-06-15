@@ -1,0 +1,5 @@
+- Die PDF der Ausarbeitung befindet sich in ./generated/cosmonautics_hungershausen_jonas.pdf
+- ./submission/data und ./submission/images sind die Zielordner der Skripte
+- Wenn PhantomJS nicht installiert ist, können die Skripte die Graphiken nicht exportieren und es wird eine Fehlermeldung ausgegeben. Das HTML für den Browser wird jedoch trotzdem generiert und gezeigt.
+- Diese ZIP enthält nur die wichtigsten Dateien. Ein GitHub Repo ist hier: https://github.com/jonas-jonas/business_intelligence
+- In ./data sind die CSV Dateien der Abfragen enthalten

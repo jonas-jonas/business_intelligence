@@ -1,0 +1,239 @@
+year,organization,count
+1976,Hughes Aircraft Company,4
+1976,NASA,2
+1976,Navy,1
+1976,TRW Inc.,2
+1977,NASA,3
+1977,Navy,2
+1978,Hughes Aircraft Company,1
+1978,NASA,9
+1979,NASA,5
+1979,Navy,6
+1980,Hughes Aircraft Company,1
+1980,NASA,4
+1980,Navy,3
+1981,Hughes Aircraft Company,4
+1981,The Boeing Company,1
+1981,NASA,4
+1981,TRW Inc.,1
+1982,Hughes Aircraft Company,4
+1982,NASA,1
+1982,TRW Inc.,1
+1983,NASA,7
+1983,Navy,3
+1983,TRW Inc.,1
+1984,Hughes Aircraft Company,2
+1984,NASA,5
+1984,Navy,1
+1984,TRW Inc.,1
+1985,Hughes Aircraft Company,2
+1985,The Boeing Company,2
+1985,NASA,8
+1985,Navy,1
+1985,TRW Inc.,1
+1986,Hughes Aircraft Company,3
+1986,NASA,11
+1986,Navy,3
+1986,TRW Inc.,2
+1987,Hughes Aircraft Company,5
+1987,The Boeing Company,1
+1987,NASA,9
+1987,Navy,4
+1987,TRW Inc.,1
+1988,Hughes Aircraft Company,6
+1988,The Boeing Company,2
+1988,NASA,13
+1988,Navy,1
+1989,Hughes Aircraft Company,12
+1989,The Boeing Company,3
+1989,NASA,17
+1989,Navy,3
+1989,TRW Inc.,2
+1990,Hughes Aircraft Company,3
+1990,The Boeing Company,1
+1990,NASA,14
+1990,Navy,2
+1990,TRW Inc.,2
+1991,Hughes Aircraft Company,5
+1991,The Boeing Company,2
+1991,NASA,17
+1991,Navy,3
+1991,TRW Inc.,3
+1992,Hughes Aircraft Company,5
+1992,"Space Systems/Loral, Inc.",3
+1992,NASA,13
+1992,Navy,2
+1992,TRW Inc.,1
+1993,Hughes Aircraft Company,7
+1993,"Space Systems/Loral, Inc.",3
+1993,The Boeing Company,1
+1993,NASA,16
+1993,Navy,4
+1993,TRW Inc.,3
+1994,Hughes Aircraft Company,8
+1994,"Space Systems/Loral, Inc.",6
+1994,The Boeing Company,1
+1994,NASA,11
+1994,Navy,4
+1994,TRW Inc.,5
+1995,Hughes Aircraft Company,11
+1995,"Space Systems/Loral, Inc.",4
+1995,The Boeing Company,1
+1995,NASA,9
+1995,Navy,4
+1995,TRW Inc.,6
+1996,Hughes Aircraft Company,8
+1996,Lockheed Martin Corporation,1
+1996,"Space Systems/Loral, Inc.",3
+1996,NASA,7
+1996,Navy,3
+1996,TRW Inc.,2
+1997,Hughes Aircraft Company,8
+1997,Lockheed Martin Corporation,1
+1997,"Space Systems/Loral, Inc.",6
+1997,NASA,4
+1997,Navy,2
+1997,TRW Inc.,3
+1998,Hughes Aircraft Company,3
+1998,Hughes Electronics Corporation,20
+1998,Lockheed Martin Corporation,13
+1998,"Space Systems/Loral, Inc.",6
+1998,The Boeing Company,1
+1998,NASA,7
+1998,Navy,1
+1998,TRW Inc.,4
+1999,Hughes Electronics Corporation,9
+1999,Lockheed Martin Corporation,13
+1999,"Space Systems/Loral, Inc.",14
+1999,The Boeing Company,3
+1999,NASA,4
+1999,Navy,2
+1999,TRW Inc.,12
+2000,"Honeywell International, Inc.",3
+2000,Hughes Electronics Corporation,42
+2000,Lockheed Martin Corporation,18
+2000,"Space Systems/Loral, Inc.",18
+2000,The Boeing Company,3
+2000,NASA,2
+2000,Navy,5
+2000,TRW Inc.,15
+2001,"Honeywell International, Inc.",2
+2001,Hughes Electronics Corporation,27
+2001,Lockheed Martin Corporation,12
+2001,"Space Systems/Loral, Inc.",22
+2001,The Boeing Company,12
+2001,NASA,5
+2001,Navy,10
+2001,TRW Inc.,12
+2002,"Honeywell International, Inc.",8
+2002,Hughes Electronics Corporation,18
+2002,Lockheed Martin Corporation,18
+2002,"Space Systems/Loral, Inc.",13
+2002,The Boeing Company,14
+2002,NASA,2
+2002,Navy,5
+2002,TRW Inc.,4
+2003,"Honeywell International, Inc.",6
+2003,Hughes Electronics Corporation,8
+2003,Lockheed Martin Corporation,24
+2003,"Space Systems/Loral, Inc.",5
+2003,The Boeing Company,26
+2003,NASA,2
+2003,TRW Inc.,2
+2004,"Honeywell International, Inc.",11
+2004,Hughes Electronics Corporation,3
+2004,Lockheed Martin Corporation,9
+2004,"Space Systems/Loral, Inc.",4
+2004,The Boeing Company,18
+2004,NASA,4
+2004,Navy,2
+2005,"Honeywell International, Inc.",4
+2005,Lockheed Martin Corporation,11
+2005,"Space Systems/Loral, Inc.",2
+2005,The Boeing Company,23
+2005,NASA,2
+2005,Navy,4
+2006,"Honeywell International, Inc.",9
+2006,Lockheed Martin Corporation,3
+2006,"Space Systems/Loral, Inc.",1
+2006,The Boeing Company,22
+2006,NASA,1
+2007,"Honeywell International, Inc.",6
+2007,Lockheed Martin Corporation,8
+2007,Thales,1
+2007,The Boeing Company,16
+2007,NASA,4
+2007,Navy,2
+2008,"Honeywell International, Inc.",8
+2008,Lockheed Martin Corporation,3
+2008,"Space Systems/Loral, Inc.",1
+2008,Thales,4
+2008,The Boeing Company,13
+2008,NASA,2
+2008,Navy,3
+2009,"Honeywell International, Inc.",4
+2009,Lockheed Martin Corporation,5
+2009,Thales,4
+2009,The Boeing Company,12
+2009,NASA,5
+2009,Navy,2
+2010,"Honeywell International, Inc.",4
+2010,Lockheed Martin Corporation,14
+2010,Thales,3
+2010,The Boeing Company,17
+2010,NASA,6
+2010,Navy,2
+2011,"Honeywell International, Inc.",5
+2011,Lockheed Martin Corporation,10
+2011,"Space Systems/Loral, Inc.",2
+2011,Thales,5
+2011,The Boeing Company,24
+2011,NASA,6
+2011,Navy,4
+2012,"Honeywell International, Inc.",6
+2012,Lockheed Martin Corporation,4
+2012,Thales,9
+2012,The Boeing Company,19
+2012,NASA,6
+2012,Navy,2
+2013,"Honeywell International, Inc.",3
+2013,Lockheed Martin Corporation,6
+2013,"Space Systems/Loral, Inc.",2
+2013,Thales,12
+2013,The Boeing Company,22
+2013,NASA,2
+2013,Navy,6
+2014,"Honeywell International, Inc.",7
+2014,Lockheed Martin Corporation,7
+2014,"Space Systems/Loral, Inc.",9
+2014,Thales,7
+2014,The Boeing Company,25
+2014,NASA,6
+2014,Navy,4
+2015,Lockheed Martin Corporation,4
+2015,"Space Systems/Loral, Inc.",9
+2015,Thales,10
+2015,The Boeing Company,33
+2015,NASA,6
+2015,Navy,4
+2016,"Honeywell International, Inc.",5
+2016,Lockheed Martin Corporation,7
+2016,"Space Systems/Loral, Inc.",4
+2016,Thales,7
+2016,The Boeing Company,32
+2016,NASA,9
+2016,Navy,1
+2017,"Honeywell International, Inc.",4
+2017,Lockheed Martin Corporation,3
+2017,"Space Systems/Loral, Inc.",6
+2017,Thales,12
+2017,The Boeing Company,25
+2017,NASA,3
+2017,Navy,3
+2018,"Honeywell International, Inc.",1
+2018,Lockheed Martin Corporation,2
+2018,"Space Systems/Loral, Inc.",2
+2018,Thales,6
+2018,The Boeing Company,17
+2018,NASA,3
+2018,Navy,3
