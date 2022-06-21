@@ -11,7 +11,7 @@ MarkupSafe==1.1.1
 matplotlib==3.1.0
 mccabe==0.6.1
 nltk==3.4.1
-numpy==1.16.2
+numpy==1.22.0
 packaging==19.0
 pandas==0.24.2
 phantomjs-binary==2.1.3
